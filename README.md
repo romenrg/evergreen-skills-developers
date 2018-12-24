@@ -1,7 +1,7 @@
 # Evergreen Skills for Software Developers
 This repository includes a list of "evergreen skills" that should serve as a fair assessment of great software developers / engineers.
 
-The purpose of this work is to serve as an alternative resource for hiring interviews, focusing on fundamentals and software development best pracices, instead of trends and short-lived frameworks knowledge.
+The purpose of this work is to serve as an alternative resource for hiring interviews, focusing on fundamentals and software development best pracices (which are portable skills), instead of focusing on trends and/or the knowledge of short-lived frameworks (that quickly become outdated).
 
 This is a work in progress and any contributions are welcome. Please feel free to propose changes following [the contributing guideline](CONTRIBUTING.md).
 
