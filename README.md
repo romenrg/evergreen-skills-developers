@@ -1,6 +1,7 @@
 # Evergreen Skills for Software Developers
 List of evergreen skills that should serve as a fair assessment of software developers / engineers; as opposed to framework trends.
 
+This is a work in progress and any contributions are welcome. Please feel free to propose changes following [the contributing guideline](CONTRIBUTING.md).
 
 ## Technical Skills
 
