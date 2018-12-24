@@ -78,7 +78,7 @@ This is a work in progress and any contributions are welcome. Please feel free t
 * Be a life-long learner
 * Be rational: question decisions, "let the facts do the talking"
 
-## Soft Skills
+## Core Skills
 
 ### Teamwork best practices
 
