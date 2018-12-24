@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-**Do you disagree with one of the existing points. Please describe.**
+**Do you disagree with one of the existing points? Please describe.**
 A clear and concise description of what your disagreement is about. Eg. I don't see value in bullet "X" because [...]
 
 **Describe the solution you'd like**
