@@ -15,7 +15,7 @@ This is a work in progress and any contributions are welcome. Please feel free t
  * Cache, memoization
  * Hash code, tokens, encondings (eg Base64)
 
-## Clean code
+### Clean code
  * Self-explainatory code
  * Use good naming (for files, variables, classes, functions...)
  * Avoid long functions and classes ()
@@ -29,7 +29,7 @@ This is a work in progress and any contributions are welcome. Please feel free t
  * Feature branches / feature toggles
  * Trunk-based development
 
-## "DevOps" practices
+### "DevOps" practices
  * Write automated tests
  * Differences between unit, integration and system tests
  * Test pyramid
@@ -58,7 +58,7 @@ This is a work in progress and any contributions are welcome. Please feel free t
  * Deadlock
  * Mutual exlusion
 
-## Management skills
+## Management & innovation skills
 
 ### Development process
 
@@ -71,14 +71,14 @@ This is a work in progress and any contributions are welcome. Please feel free t
 
 * [5 Whys](http://en.wikipedia.org/wiki/5_Whys)
 
-## Mindset
+### Mindset
 
 * Don't fear change
 * Dare to fail
 * Be a life-long learner
 * Be rational: question decisions, "let the facts do the talking"
 
-## Core Skills
+## Core Skills (aka "soft" skills)
 
 ### Teamwork best practices
 
