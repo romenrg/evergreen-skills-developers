@@ -82,7 +82,7 @@ This is a work in progress and any contributions are welcome. Please feel free t
 
 ### Teamwork best practices
 
-* [Pull Request Best Practices] (https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
+* [Pull Request Best Practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
 * Focus on the relevant pieces when performing code-reviews
 * Pair programming best practices
 * Low egos
