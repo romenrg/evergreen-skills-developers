@@ -8,8 +8,9 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 ## Table of contents
 
 - [Core skills](#core-skills-aka-soft-skills)
-  - [Teamwork best practices](#teamwork-best-practices)
   - [Communication](#communication)
+  - [Teamwork](#teamwork)
+  - [Technical collaboration](#technical-collaboration)
 - [Innovation & (self-)management skills](#innovation--self-management-skills)
   - [Development process](#development-process)
   - [Problem solving skills](#problem-solving-skills)
@@ -36,7 +37,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 * Minimize interruptions
 * Be polite
 
-### Teamwork best practices
+### Teamwork
 
 * Keep low egos
 * Be an active listener
@@ -44,7 +45,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 * Share knowledge
 * Engage in constructive decisions
 
-### Technical collaboration best practices
+### Technical collaboration
 * [Pull Request Best Practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
 * Focus on the relevant pieces when performing code-reviews
 * Pair programming best practices
