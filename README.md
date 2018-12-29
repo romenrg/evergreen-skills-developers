@@ -3,7 +3,7 @@ This repository includes a list of "evergreen skills" that should serve as a fai
 
 The purpose of this work is to serve as an alternative resource for conducting hiring interviews of software developers / engineers. This document focuses on software development best practices, cross-framework principles and other portable skills; instead of the usual focus on trends and/or specific knowledge of short-lived frameworks, which tend to quickly become outdated and often don't reflect the real value software developers / engineers bring to the organization.
 
-This is a work in progress. Important knowledge might be missing, existing bullets can probably be improved and better grouping strategies could be found. For those reasons, any contributions (i.e. PRs) are welcome. Please feel free to propose changes following [the contributing guideline](CONTRIBUTING.md).
+_This is a work in progress. Important knowledge might be missing, existing bullets can probably be improved and better grouping strategies could be found. For those reasons, any contributions (i.e. PRs) are welcome._ Please feel free to propose changes following [the contributing guideline](CONTRIBUTING.md).
 
 ## Table of contents
 
