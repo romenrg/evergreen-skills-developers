@@ -122,3 +122,5 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Race condition
  * Deadlock
  * Mutual exlusion
+
+This work is released under the terms specified in this [license file](LICENSE.md), based on MIT License.
