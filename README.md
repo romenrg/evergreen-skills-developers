@@ -29,22 +29,25 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ## Core Skills (aka "soft" skills)
 
-### Teamwork best practices
-
-* [Pull Request Best Practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
-* Focus on the relevant pieces when performing code-reviews
-* Pair programming best practices
-* Low egos
-* Be a good mentor
-* Share knowledge
-* Engage in constructive decisions
-
 ### Communication
 
 * Follow e-mail best practices
 * Follow chat best practices
 * Minimize interruptions
-* Politeness
+* Be polite
+
+### Teamwork best practices
+
+* Keep low egos
+* Be an active listener
+* Be a good mentor
+* Share knowledge
+* Engage in constructive decisions
+
+### Technical collaboration best practices
+* [Pull Request Best Practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
+* Focus on the relevant pieces when performing code-reviews
+* Pair programming best practices
 
 ## Innovation & (self-)management skills
 
