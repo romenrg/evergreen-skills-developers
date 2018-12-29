@@ -5,78 +5,27 @@ The purpose of this work is to serve as an alternative resource for hiring inter
 
 This is a work in progress and any contributions are welcome. Please feel free to propose changes following [the contributing guideline](CONTRIBUTING.md).
 
-## Technical Skills
+## Table of contents
 
-### General programming knowledge
- * Data structures (basic types, array, matrix, object...)
- * OOP
- * SOLID, GRASP
- * Functional programming (pure function, recursion,...)
- * Cache, memoization
- * Hash code, tokens, encondings (eg Base64)
+- [Core skills](#core-skills)
+  - [Teamwork best practices](#teamwork-best-practices)
+  - [Communication](#communication)
+- [Innovation & (self-)management skills](#innovation--self-management-skills)
+  - [Development process](#development-process)
+  - [Problem solving skills](#problem-solving-skills)
+  - [Mindset](#mindset)
+- [Technical skills]
+  - [General technical knowledge](#general-technical-knowledge)
+    - [Principles](#principles)
+    - [Clean Code](#clean-code)
+    - [Collaboration and SCM](#collaboration-and-SCM)
+    - [DevOps practices](#devops-practices)
+  - [Field-specific technical knowledge](#field-specific-technical-knowledge)
+    - [Front-end development](#front-end-development)
+    - [Back-end development](#back-end-development)
+    - [Scaling & optimization](#scaling--optimization)
+    - [Concurrency](#concurrency)
 
-### Clean code
- * Self-explainatory code
- * Use good naming (for files, variables, classes, functions...)
- * Avoid long functions and classes ()
- * Extract complex boolean conditions into functions
- * Use lightway documentation instead of inline-comments
-
-### Collaboration
- * CVS / SCM knowledge
- * Why is versioning important
- * Commits best practices (atomic commits, good descriptions...)
- * Feature branches / feature toggles
- * Trunk-based development
-
-### "DevOps" practices
- * Write automated tests
- * Differences between unit, integration and system tests
- * Test pyramid
- * Continuous Integration
- * Continuous Delivery vs Deployment
-
-### Front-end development
- * DOM (definition, understanding, virtual DOM...)
- * Responsive design (purpose, advantages, progresive enhancement...)
- * API standards: REST / SOAP
- * State management (associated problems, stateless approach...)
- * MVC and derivatives
-
-### Back-end development
- * Relational databases (how do they work, basic artifacts...)
- * Batch processes / cron tasks
- * ORM
-
-### Scaling & optimization
- * Load balancing
- * Redundancy
- * Latency
-
-### Concurrency
- * Race condition
- * Deadlock
- * Mutual exlusion
-
-## Management & innovation skills
-
-### Development process
-
-* Comfortable with iterative and incremental development
-* Self-organizing capability
-* Avoid creating false expectations
-* Focus on priorities and business value
-
-### Problem solving skills
-
-* [5 Whys](http://en.wikipedia.org/wiki/5_Whys)
-
-### Mindset
-
-* Don't fear change
-* Dare to fail
-* Be a life-long learner
-* Be rational: question decisions, "let the facts do the talking"
 
 ## Core Skills (aka "soft" skills)
 
@@ -96,3 +45,80 @@ This is a work in progress and any contributions are welcome. Please feel free t
 * Follow chat best practices
 * Minimize interruptions
 * Politeness
+
+## Innovation & (self-)management skills
+
+### Development process
+
+* Comfortable with iterative and incremental development
+* Self-organizing capability
+* Avoid creating false expectations
+* Focus on priorities and business value
+
+### Problem solving skills
+
+* [5 Whys](http://en.wikipedia.org/wiki/5_Whys)
+
+### Mindset
+
+* Don't fear change
+* Dare to fail
+* Be a life-long learner
+* Be rational: question decisions, "let the facts do the talking"
+
+## Technical skills
+
+### General Technical Knowledge
+
+#### Principles
+ * OOP
+ * SOLID, GRASP
+ * Functional programming (pure function, recursion,...)
+ * Cache, memoization
+ * Hash code, tokens, encondings (eg Base64)
+ * Data structures (basic types, array, matrix, object...)
+
+#### Clean code
+ * Self-explainatory code
+ * Use good naming (for files, variables, classes, functions...)
+ * Avoid long functions and classes ()
+ * Extract complex boolean conditions into functions
+ * Use lightway documentation instead of inline-comments
+
+#### Collaboration and SCM
+ * CVS / SCM knowledge
+ * Why is versioning important
+ * Commits best practices (atomic commits, good descriptions...)
+ * Feature branches / feature toggles
+ * Trunk-based development
+
+#### "DevOps" practices
+ * Write automated tests
+ * Differences between unit, integration and system tests
+ * Test pyramid
+ * Continuous Integration
+ * Continuous Delivery vs Deployment
+
+### Field-specific technical knowledge
+
+#### Front-end development
+ * DOM (definition, understanding, virtual DOM...)
+ * Responsive design (purpose, advantages, progresive enhancement...)
+ * API standards: REST / SOAP
+ * State management (associated problems, stateless approach...)
+ * MVC and derivatives
+
+#### Back-end development
+ * Relational databases (how do they work, basic artifacts...)
+ * Batch processes / cron tasks
+ * ORM
+
+#### Scaling & optimization
+ * Load balancing
+ * Redundancy
+ * Latency
+
+#### Concurrency
+ * Race condition
+ * Deadlock
+ * Mutual exlusion
