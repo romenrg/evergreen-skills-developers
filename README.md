@@ -14,7 +14,7 @@ This is a work in progress. Important knowledge might be missing, existing bulle
   - [Development process](#development-process)
   - [Problem solving skills](#problem-solving-skills)
   - [Mindset](#mindset)
-- [Technical skills]
+- [Technical skills](#technical-skills)
   - [General technical knowledge](#general-technical-knowledge)
     - [Principles](#principles)
     - [Clean Code](#clean-code)
