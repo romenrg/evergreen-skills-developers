@@ -125,4 +125,4 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ---
 
-_This work is released under the terms specified in this [license file](LICENSE.md), based on MIT License._
+_This work is released under the terms specified in [this license file](LICENSE), based on MIT License._
