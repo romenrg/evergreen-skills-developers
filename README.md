@@ -7,7 +7,7 @@ This is a work in progress. Important knowledge might be missing, existing bulle
 
 ## Table of contents
 
-- [Core skills](#core-skills)
+- [Core skills](#core-skills-aka-soft-skills)
   - [Teamwork best practices](#teamwork-best-practices)
   - [Communication](#communication)
 - [Innovation & (self-)management skills](#innovation--self-management-skills)
