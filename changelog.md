@@ -18,11 +18,14 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [Unreleased] [1.0.0] (First release)
+### [1.0.0] (First release)
 
 #### Added
 
-* First draft including technical, management and soft skills
+* First draft including 3 groups of skills: core (aka "soft"), innovation & (self-)management
+* Table of contents
+* Introduction, purpose and work-in-progress disclaimer
+* Contributing guidelines, code of conduct and templates for PRs and issues
 
 #### Changed
 
