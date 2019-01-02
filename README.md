@@ -27,6 +27,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
     - [Front-end development](#front-end-development)
     - [Back-end development](#back-end-development)
     - [Architecture](#architecture--infrastructure)
+    - [Security](#security)
     - [Scaling & optimization](#scaling--optimization)
     - [Concurrency](#concurrency)
 
@@ -129,6 +130,14 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Master-slate pattern
  * Client-server pattern
  * IAAS, PAAS, SASS
+
+#### Security
+ * Public-key cryptosystems (e.g. RSA)
+ * Principle of least privilege
+ * DoS / DDoS
+ * SQL injection
+ * Man-in-the-middle attack
+ * XSS and CSRF
 
 #### Scaling & optimization
  * Load balancing
