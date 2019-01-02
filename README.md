@@ -148,6 +148,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Load balancing
  * Redundancy
  * Latency
+ * Lazy loading
 
 #### Concurrency
  * Race condition
