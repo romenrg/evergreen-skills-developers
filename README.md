@@ -37,8 +37,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ### Communication
 
-* Follow e-mail best practices
-* Follow chat best practices
+* Follow e-mail best practices ([some examples](https://www.grammarly.com/blog/email-etiquette-rules-to-know/))
+* Follow chat best practices ([some Slack examples](https://blog.rescuetime.com/slack-focus-guide/))
 * Minimize interruptions
 * Be polite
 

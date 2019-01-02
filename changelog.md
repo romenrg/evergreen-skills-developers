@@ -18,7 +18,7 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [Unreleased] [1.1.0] ()
+### [Unreleased] [2.0.0] (New sections X, Y, Z and major changes in existing sections)
 
 #### Added
 
@@ -28,7 +28,8 @@ This file keeps a log of version releases. This file is maintained
 #### Changed
 
 * Back-end section: minor changes to existing items and added some new concepts (e.g. "session handling" and "database design")
-* Splitted "Principles" section, creating also "Data Structures". 
+* Splitted "Principles" section, creating also "Data Structures"
+* Added links to e-mail and chat (Slack) communication best practices
 
 #### Removed
 
