@@ -126,13 +126,14 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Database design
  * ORM
  * Session handling
+ * Error Handling, Auditing and Logging
 
 #### Architecture & Infrastructure
  * Externalized Configuration
  * Infrastructure as code
  * Microservices
- * Virtual machines vs Container
- * Master-slate pattern
+ * Virtual machines vs Containers
+ * Master-slave pattern
  * Client-server pattern
  * IAAS, PAAS, SASS
 
