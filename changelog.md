@@ -18,6 +18,20 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
+### [Unreleased] [1.1.0] ()
+
+#### Added
+
+* Architecture and Infrastructure section
+
+#### Changed
+
+*
+
+#### Removed
+
+*
+
 ### [1.0.0] (First release)
 
 #### Added

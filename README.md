@@ -26,6 +26,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
   - [Field-specific technical knowledge](#field-specific-technical-knowledge)
     - [Front-end development](#front-end-development)
     - [Back-end development](#back-end-development)
+    - [Architecture](#architecture--infrastructure)
     - [Scaling & optimization](#scaling--optimization)
     - [Concurrency](#concurrency)
 
@@ -113,11 +114,21 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * API standards: REST / SOAP
  * State management (associated problems, stateless approach...)
  * MVC and derivatives
+ * Websockets
 
 #### Back-end development
  * Relational databases (how do they work, basic artifacts...)
  * Batch processes / cron tasks
  * ORM
+
+#### Architecture & Infrastructure
+ * Externalized Configuration
+ * Infrastructure as code
+ * Microservices
+ * Virtual machines vs Container
+ * Master-slate pattern
+ * Client-server pattern
+ * IAAS, PAAS, SASS
 
 #### Scaling & optimization
  * Load balancing
