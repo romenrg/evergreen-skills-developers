@@ -23,6 +23,7 @@ This file keeps a log of version releases. This file is maintained
 #### Added
 
 * Architecture and Infrastructure section
+* Security section
 
 #### Changed
 
