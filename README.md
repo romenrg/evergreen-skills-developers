@@ -20,6 +20,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 - [Technical skills](#technical-skills)
   - [General technical knowledge](#general-technical-knowledge)
     - [Principles](#principles)
+    - [Data Structures](#data-structures) 
     - [Clean Code](#clean-code)
     - [Collaboration and SCM](#collaboration-and-SCM)
     - [DevOps practices](#devops-practices)
@@ -82,9 +83,11 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * OOP
  * SOLID, GRASP
  * Functional programming (pure function, recursion,...)
- * Cache, memoization
- * Hash code, tokens, encondings (eg Base64)
- * Data structures (basic types, array, matrix, object...)
+
+#### Data Structures
+ * Basic structures (basic types, array, matrix, object...)
+ * Cache / memoization
+ * Hash codes, tokens, encondings (e.g. Base64)
 
 #### Clean code
  * Self-explainatory code

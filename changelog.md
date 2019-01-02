@@ -27,7 +27,8 @@ This file keeps a log of version releases. This file is maintained
 
 #### Changed
 
-* Back-end section: minor changes to existing items and added "session handling" and "database design" 
+* Back-end section: minor changes to existing items and added "session handling" and "database design"
+* Splitted "Principles" section, creating also "Data Structures". 
 
 #### Removed
 
