@@ -119,8 +119,10 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Back-end development
  * Relational databases (how do they work, basic artifacts...)
- * Batch processes / cron tasks
+ * Batch processes / Cron Jobs
+ * Database design
  * ORM
+ * Session handling
 
 #### Architecture & Infrastructure
  * Externalized Configuration

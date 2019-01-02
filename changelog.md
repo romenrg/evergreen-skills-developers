@@ -27,7 +27,7 @@ This file keeps a log of version releases. This file is maintained
 
 #### Changed
 
-*
+* Back-end section: minor changes to existing items and added "session handling" and "database design" 
 
 #### Removed
 
