@@ -103,6 +103,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Commits best practices (atomic commits, good descriptions...)
  * Feature branches / feature toggles
  * Trunk-based development
+ * Dependency management
 
 #### "DevOps" practices
  * Write automated tests
