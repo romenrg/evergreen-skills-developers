@@ -95,7 +95,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Avoid long functions and classes ()
  * Extract complex boolean conditions into functions
  * Use lightway documentation instead of inline-comments
- * Semantic versioning
+ * [Semantic versioning](https://semver.org/)
 
 #### Collaboration and SCM
  * CVS / SCM knowledge
