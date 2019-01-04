@@ -106,6 +106,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Dependency management
 
 #### "DevOps" practices
+ * Build automation
  * Write automated tests
  * Differences between unit, integration and system tests
  * Test pyramid
