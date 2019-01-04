@@ -27,7 +27,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
   - [Field-specific technical knowledge](#field-specific-technical-knowledge)
     - [Front-end development](#front-end-development)
     - [Back-end development](#back-end-development)
-    - [Architecture](#architecture--infrastructure)
+    - [Architecture & infrastructure](#architecture--infrastructure)
     - [Security](#security)
     - [Scaling & optimization](#scaling--optimization)
     - [Concurrency](#concurrency)
