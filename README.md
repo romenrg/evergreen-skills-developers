@@ -39,7 +39,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 * Follow e-mail best practices ([some examples](https://www.grammarly.com/blog/email-etiquette-rules-to-know/))
 * Follow chat best practices ([some Slack examples](https://blog.rescuetime.com/slack-focus-guide/))
-* Minimize interruptions ([see why](https://jaxenter.com/aaaand-gone-true-cost-interruptions-128741.html))
+* Minimize interruptions ([some reasons](https://jaxenter.com/aaaand-gone-true-cost-interruptions-128741.html))
 * Be polite
 
 ### Teamwork
