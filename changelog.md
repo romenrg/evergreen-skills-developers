@@ -11,10 +11,10 @@ This file keeps a log of version releases. This file is maintained
     * [X.Y.Z] - YYYY-MM-DD (Short description)
   * Convention:
     * For X.Y.Z, increment the digit following this scheme:
-    * X = breaking change (previous version is now deprecated),
-    * Y = additive change (previous version is still valid),
-    * Z = just a simple patch (for a typo or error).
-* When a the new version is released, a new [Unreleased] section is created in the "Release Change History" below.
+      * X = breaking change (previous version is now deprecated),
+      * Y = additive change (previous version is still valid),
+      * Z = just a simple patch (for a typo or error).
+* When the new version is released, a new [Unreleased] section is created in the "Release Change History" below.
 
 ## Release Change History
 
