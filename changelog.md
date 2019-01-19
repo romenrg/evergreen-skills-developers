@@ -8,7 +8,7 @@ This file keeps a log of version releases. This file is maintained
 * Each significant change should be described in the "unpublished" section
 * Entry versions should follow the following:
   * Syntax:
-    * [X.Y.Z] (Short description)
+    * [X.Y.Z] - YYYY-MM-DD (Short description)
   * Convention:
     * For X.Y.Z, increment the digit following this scheme:
     * X = breaking change (previous version is now deprecated),
@@ -18,7 +18,7 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [Unreleased] [2.0.1] (Minor fixes in 'principles' section)
+### [Unreleased] [2.0.1] - YYYY-MM-DD (Minor fixes in 'principles' section)
 
 #### Added
 
@@ -34,7 +34,7 @@ This file keeps a log of version releases. This file is maintained
 
 * .
 
-### [2.0.0] (Extended sections, created new & more reference links)
+### [2.0.0] - 2019-01-19 (Extended sections, created new & more reference links)
 
 #### Added
 
@@ -56,7 +56,7 @@ This file keeps a log of version releases. This file is maintained
 
 * .
 
-### [1.0.0] (First release)
+### [1.0.0] - 2018-12-30 (First release)
 
 #### Added
 
