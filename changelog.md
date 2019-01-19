@@ -18,22 +18,27 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [Unreleased] [2.0.0] (New sections X, Y, Z and major changes in existing sections)
+### [2.0.0] (New sections X, Y, Z and major changes in existing sections)
 
 #### Added
 
 * Architecture and Infrastructure section
 * Security section
+* "Semantic versioning", included in the "Clean Code" section
+* "Dependency management", in the "Collaboration and SCM" section
+* "Control structures and boolean algebra", into "Principles"
+* "Imperative vs declarative programming", included in the principles section, with a reference article
 
 #### Changed
 
 * Back-end section: minor changes to existing items and added some new concepts (e.g. "session handling" and "database design")
 * Splitted "Principles" section, creating also "Data Structures"
-* Added links to e-mail and chat (Slack) communication best practices
+* Included a link to e-mail and chat (Slack) communication best practices
+* Linked to article about the productivity cost of interruptions
 
 #### Removed
 
-*
+* .
 
 ### [1.0.0] (First release)
 

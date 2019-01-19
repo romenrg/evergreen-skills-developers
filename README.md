@@ -80,9 +80,11 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 ### General Technical Knowledge
 
 #### Principles
+ * Basics: General control structures and boolean algebra
  * OOP
  * SOLID, GRASP
  * Functional programming (pure function, recursion,...)
+ * Declarative vs Imperative programming ([see differences](http://amzotti.github.io/programming%20paradigms/2015/02/13/what-is-the-difference-between-procedural-function-imperative-and-declarative-programming-paradigms/)]
 
 #### Data Structures
  * Basic structures (basic types, array, matrix, object...)
