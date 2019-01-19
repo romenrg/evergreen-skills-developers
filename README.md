@@ -80,6 +80,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 ### General Technical Knowledge
 
 #### Principles
+ * General control structures and boolean algebra
  * OOP
  * SOLID, GRASP
  * Functional programming (pure function, recursion,...)
