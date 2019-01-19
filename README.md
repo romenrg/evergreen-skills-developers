@@ -80,35 +80,36 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 ### General Technical Knowledge
 
 #### Principles
- * Basics control structures and boolean algebra
+ * Basic control structures and boolean algebra
  * OOP
  * SOLID, GRASP
- * Functional programming (pure function, recursion,...)
+ * Functional programming (pure functions, recursion,...)
  * Declarative vs Imperative programming ([see differences](http://amzotti.github.io/programming%20paradigms/2015/02/13/what-is-the-difference-between-procedural-function-imperative-and-declarative-programming-paradigms/))
 
 #### Data Structures
  * Basic structures (basic types, array, matrix, object...)
- * Cache / memoization
+ * Caching / memoization
  * Hash codes, tokens, encondings (e.g. Base64)
 
 #### Clean code
- * Self-explainatory code
+ * Self-explanatory code
  * Use good naming (for files, variables, classes, functions...)
- * Avoid long functions and classes ()
+ * Avoid long functions and classes
  * Extract complex boolean conditions into functions
- * Use lightway documentation instead of inline-comments
+ * Use lightweight documentation instead of inline-comments
  * [Semantic versioning](https://semver.org/)
 
 #### Collaboration and SCM
  * CVS / SCM knowledge
- * Why is versioning important
- * Commits best practices (atomic commits, good descriptions...)
+ * Understand why versioning is important
+ * Commit best practices (atomic commits, good descriptions...)
  * Feature branches / feature toggles
  * Trunk-based development
  * Dependency management
 
 #### "DevOps" practices
  * Build automation
+ 
  * Write automated tests
  * Differences between unit, integration and system tests
  * Test pyramid
@@ -126,7 +127,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Websockets
 
 #### Back-end development
- * Relational databases (how do they work, basic artifacts...)
+ * Relational databases (how they work, basic concepts...)
  * Batch processes / Cron Jobs
  * Database design
  * ORM
