@@ -18,7 +18,7 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [Unreleased][2.0.1] (Fix?)
+### [Unreleased][2.0.1] (Minor fixes in 'principles' section)
 
 #### Added
 
@@ -26,7 +26,8 @@ This file keeps a log of version releases. This file is maintained
 
 #### Changed
 
-* .
+* Minor fix: replaced ']' by ')' in reference link in the principles section
+* Rephrasing "control structures" entry
 
 #### Removed
 
