@@ -18,7 +18,21 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [2.0.0] (New sections X, Y, Z and major changes in existing sections)
+### [Unreleased][2.0.1] (Fix?)
+
+#### Added
+
+* .
+
+#### Changed
+
+* .
+
+#### Removed
+
+* .
+
+### [2.0.0] (Extended sections, created new & more reference links)
 
 #### Added
 
