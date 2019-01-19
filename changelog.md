@@ -28,7 +28,7 @@ This file keeps a log of version releases. This file is maintained
 
 * Minor fix: replaced ']' by ')' in reference link in the principles section
 * Rephrasing "control structures" entry
-* Minor improvements to changelog
+* Minor improvements to changelog and typo fixed in contributing guideline
 
 #### Removed
 
