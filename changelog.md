@@ -26,8 +26,11 @@ This file keeps a log of version releases. This file is maintained
 
 #### Changed
 
-* Minor fix: replaced ']' by ')' in reference link in the principles section
+* Minor fixes:
+  * Replaced ']' by ')' in a reference link within the principles section
+  * General grammar / spelling improvements
 * Rephrasing "control structures" entry
+* Adding "micro commits" as an alternative to "atomic commits"
 * Minor improvements to changelog and typo fixed in contributing guideline
 
 #### Removed

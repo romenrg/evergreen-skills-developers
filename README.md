@@ -102,7 +102,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 #### Collaboration and SCM
  * CVS / SCM knowledge
  * Understand why versioning is important
- * Commit best practices (atomic commits, good descriptions...)
+ * Commit best practices ([micro commits](https://lucasr.org/2011/01/29/micro-commits/) / atomic commits, good descriptions...)
  * Feature branches / feature toggles
  * Trunk-based development
  * Dependency management
