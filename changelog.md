@@ -22,7 +22,7 @@ This file keeps a log of version releases. This file is maintained
 
 #### Added
 
-* .
+* CI process running in CodeShip and note about it in the Contributing file
 
 #### Changed
 
