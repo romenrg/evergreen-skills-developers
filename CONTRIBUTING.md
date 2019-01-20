@@ -21,6 +21,8 @@ To submit changes:
  * Once your changes are completed, push them to your fork.
  * Finally, create a [GitHub Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork, by using GitHub's web interface.
 
+When your PR is submitted, some checks will automatically be run as part of a CI process running in CodeShip. Please, pay attention to the result of this process, so that you can fix any errors that are detected and leave the PR in a stable status for maintainers to review.
+
 When your Pull Request is ready to be merged, the repository maintainers will integrate it and it will be published in the next release.
 
 ## Code of Conduct
