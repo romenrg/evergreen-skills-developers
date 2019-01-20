@@ -52,7 +52,7 @@ This file keeps a log of version releases. This file is maintained
 #### Changed
 
 * Back-end section: minor changes to existing items and added some new concepts (e.g. "session handling" and "database design")
-* Splitted "Principles" section, creating also "Data Structures"
+* Split "Principles" section, creating also "Data Structures"
 * Included a link to e-mail and chat (Slack) communication best practices
 * Linked to article about the productivity cost of interruptions
 
