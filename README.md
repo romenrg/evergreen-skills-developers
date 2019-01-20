@@ -92,7 +92,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
  * Basic structures (basic types, array, matrix, object...)
  * Caching / memoization
- * Hash codes, tokens, encondings (e.g. Base64)
+ * Hash codes, tokens, encodings (e.g. Base64)
 
 #### Clean code
 
