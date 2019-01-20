@@ -130,7 +130,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * API standards: REST / SOAP
  * State management (associated problems, stateless approach...)
  * MVC and derivatives
- * Websockets
+ * WebSockets
 
 #### Back-end development
 
