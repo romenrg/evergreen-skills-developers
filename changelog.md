@@ -18,11 +18,11 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [Unreleased] [2.0.1] - YYYY-MM-DD (Minor fixes in 'principles' section)
+### [Unreleased] [2.1.0] - YYYY-MM-DD (Minor fixes in 'principles' section)
 
 #### Added
 
-* CI process running in CodeShip and note about it in the Contributing file
+* CI process running in CodeShip to perform spelling checks
 
 #### Changed
 
