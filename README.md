@@ -82,7 +82,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Principles
 
- * Basic control structures and boolean algebra
+ * Basic control structures and Boolean algebra
  * OOP
  * SOLID, GRASP
  * Functional programming (pure functions, recursion,...)
@@ -92,7 +92,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
  * Basic structures (basic types, array, matrix, object...)
  * Caching / memoization
- * Hash codes, tokens, encondings (e.g. Base64)
+ * Hash codes, tokens, encodings (e.g. Base64)
 
 #### Clean code
 
@@ -126,11 +126,11 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 #### Front-end development
 
  * DOM (definition, understanding, virtual DOM...)
- * Responsive design (purpose, advantages, progresive enhancement...)
+ * Responsive design (purpose, advantages, progressive enhancement...)
  * API standards: REST / SOAP
  * State management (associated problems, stateless approach...)
  * MVC and derivatives
- * Websockets
+ * WebSockets
 
 #### Back-end development
 
@@ -171,7 +171,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
  * Race condition
  * Deadlock
- * Mutual exlusion
+ * Mutual exclusion
 
 ---
 

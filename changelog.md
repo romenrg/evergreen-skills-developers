@@ -18,11 +18,11 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [Unreleased] [2.0.1] - YYYY-MM-DD (Minor fixes in 'principles' section)
+### [Unreleased] [2.1.0] - YYYY-MM-DD (Minor fixes in 'principles' section)
 
 #### Added
 
-* .
+* CI process running in CodeShip to perform spelling checks
 
 #### Changed
 
@@ -46,13 +46,13 @@ This file keeps a log of version releases. This file is maintained
 * Security section
 * "Semantic versioning", included in the "Clean Code" section
 * "Dependency management", in the "Collaboration and SCM" section
-* "Control structures and boolean algebra", into "Principles"
+* "Control structures and Boolean algebra", into "Principles"
 * "Imperative vs declarative programming", included in the principles section, with a reference article
 
 #### Changed
 
 * Back-end section: minor changes to existing items and added some new concepts (e.g. "session handling" and "database design")
-* Splitted "Principles" section, creating also "Data Structures"
+* Split "Principles" section, creating also "Data Structures"
 * Included a link to e-mail and chat (Slack) communication best practices
 * Linked to article about the productivity cost of interruptions
 
