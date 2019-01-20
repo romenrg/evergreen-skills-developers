@@ -31,6 +31,7 @@ This file keeps a log of version releases. This file is maintained
   * General grammar / spelling improvements
 * Rephrasing "control structures" entry
 * Adding "micro commits" as an alternative to "atomic commits"
+* Markup improvements: All titles have the same case (capitalized) and always a blank line afterwards
 * Minor improvements to changelog and typo fixed in contributing guideline
 
 #### Removed
