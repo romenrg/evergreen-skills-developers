@@ -51,6 +51,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 * Engage in constructive decisions
 
 ### Technical collaboration
+
 * [Pull Request Best Practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
 * Focus on the relevant pieces when performing code-reviews
 * Pair programming best practices
@@ -77,21 +78,24 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ## Technical skills
 
-### General Technical Knowledge
+### General technical knowledge
 
 #### Principles
+
  * Basic control structures and boolean algebra
  * OOP
  * SOLID, GRASP
  * Functional programming (pure functions, recursion,...)
  * Declarative vs Imperative programming ([see differences](http://amzotti.github.io/programming%20paradigms/2015/02/13/what-is-the-difference-between-procedural-function-imperative-and-declarative-programming-paradigms/))
 
-#### Data Structures
+#### Data structures
+
  * Basic structures (basic types, array, matrix, object...)
  * Caching / memoization
  * Hash codes, tokens, encondings (e.g. Base64)
 
 #### Clean code
+
  * Self-explanatory code
  * Use good naming (for files, variables, classes, functions...)
  * Avoid long functions and classes
@@ -100,6 +104,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * [Semantic versioning](https://semver.org/)
 
 #### Collaboration and SCM
+
  * CVS / SCM knowledge
  * Understand why versioning is important
  * Commit best practices ([micro commits](https://lucasr.org/2011/01/29/micro-commits/) / atomic commits, good descriptions...)
@@ -108,8 +113,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Dependency management
 
 #### "DevOps" practices
- * Build automation
- 
+
+ * Build automation 
  * Write automated tests
  * Differences between unit, integration and system tests
  * Test pyramid
@@ -119,6 +124,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 ### Field-specific technical knowledge
 
 #### Front-end development
+
  * DOM (definition, understanding, virtual DOM...)
  * Responsive design (purpose, advantages, progresive enhancement...)
  * API standards: REST / SOAP
@@ -127,6 +133,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Websockets
 
 #### Back-end development
+
  * Relational databases (how they work, basic concepts...)
  * Batch processes / Cron Jobs
  * Database design
@@ -134,7 +141,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Session handling
  * Error Handling, Auditing and Logging
 
-#### Architecture & Infrastructure
+#### Architecture & infrastructure
+
  * Externalized Configuration
  * Infrastructure as code
  * Microservices
@@ -144,6 +152,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * IAAS, PAAS, SASS
 
 #### Security
+
  * Public-key cryptosystems (e.g. RSA)
  * Principle of least privilege
  * DoS / DDoS
@@ -152,12 +161,14 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * XSS and CSRF
 
 #### Scaling & optimization
+
  * Load balancing
  * Redundancy
  * Latency
  * Lazy loading
 
 #### Concurrency
+
  * Race condition
  * Deadlock
  * Mutual exlusion
