@@ -46,7 +46,7 @@ This file keeps a log of version releases. This file is maintained
 * Security section
 * "Semantic versioning", included in the "Clean Code" section
 * "Dependency management", in the "Collaboration and SCM" section
-* "Control structures and boolean algebra", into "Principles"
+* "Control structures and Boolean algebra", into "Principles"
 * "Imperative vs declarative programming", included in the principles section, with a reference article
 
 #### Changed
