@@ -22,6 +22,7 @@ This file keeps a log of version releases. This file is maintained
 
 #### Added
 
+* Included "practice empathy" as a key teamwork skill
 * CI process running in CodeShip to perform spelling checks
 
 #### Changed
