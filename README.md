@@ -44,6 +44,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ### Teamwork
 
+* Practice empathy
 * Keep low egos
 * Be an active listener
 * Be a good mentor
