@@ -83,7 +83,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Principles
 
- * Basic control structures and Boolean algebra
+ * Basic control structures and boolean algebra
  * OOP
  * SOLID, GRASP
  * Functional programming (pure functions, recursion,...)
