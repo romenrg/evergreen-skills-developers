@@ -1,4 +1,6 @@
 # Evergreen Skills for Software Developers
+[![Codeship Status for romenrg/evergreen-skills-developers](https://app.codeship.com/projects/57d86950-fee3-0136-cc17-56b6e41314e7/status?branch=master)](https://app.codeship.com/projects/322711)
+
 This repository includes a list of "evergreen skills" that should serve as a fair assessment of skilled software developers / engineers.
 
 The purpose of this work is to serve as an alternative resource for conducting hiring interviews of software developers / engineers. This document focuses on software development best practices, cross-framework principles and other portable skills; instead of the usual focus on trends and/or specific knowledge of short-lived frameworks, which tend to quickly become outdated and often don't reflect the real value software developers / engineers bring to the organization.
