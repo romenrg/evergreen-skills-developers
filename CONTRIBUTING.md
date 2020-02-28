@@ -16,7 +16,7 @@ For more information, please refer to [GitHub's instructions on this](https://he
 
 To submit changes:
  * Make sure your local copy is updated.
- * Create a dedicated branch locally (`git checkout -b <name-of-new-branch>`).
+ * From your updated master branch, create a new dedicated branch locally (`git checkout -b <name-of-new-branch>`).
  * Add your changes by creating [_micro commits_](https://lucasr.org/2011/01/29/micro-commits/).
  * Once your changes are completed, push them to your fork.
  * Finally, create a [GitHub Pull Request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/) from your fork, by using GitHub's web interface.
