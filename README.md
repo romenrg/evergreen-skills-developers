@@ -111,11 +111,11 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * CVS / SCM knowledge
  * Understand why versioning is important
  * Commit best practices ([micro commits](https://lucasr.org/2011/01/29/micro-commits/) / atomic commits, good descriptions...)
- * Feature branches / feature toggles
+ * Feature branches (short-lived)
  * Trunk-based development
  * Dependency management
 
-#### "DevOps" practices
+#### DevOps practices
 
  * Build automation 
  * Write automated tests
@@ -123,6 +123,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Test pyramid
  * Continuous Integration
  * Continuous Delivery vs Deployment
+ * Feature Flags / Feature Toggles
 
 ### Field-specific technical knowledge
 
