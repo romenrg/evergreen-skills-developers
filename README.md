@@ -70,7 +70,13 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ### Problem solving skills
 
+* Lateral Thinking
+* Abstraction
+* Creativity
+* Researching skills
+* Applying the [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)
 * [5 Whys](http://en.wikipedia.org/wiki/5_Whys)
+* Risk management
 
 ### Mindset
 
