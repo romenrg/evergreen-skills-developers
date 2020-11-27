@@ -55,9 +55,10 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ### Technical collaboration
 
-* [Pull Request Best Practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
+* [Pull Request best practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
 * Focus on the relevant pieces when performing code-reviews
-* Pair programming best practices
+* [Pair Programming best practices](https://martinfowler.com/articles/on-pair-programming.html)
+* Know about [Agile Software Development's principles](https://agilemanifesto.org/principles.html)
 
 ## Innovation & (self-)management skills
 
