@@ -11,14 +11,15 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ## Table of contents
 
-- [Core skills](#core-skills-aka-soft-skills)
-  - [Communication](#communication)
-  - [Teamwork](#teamwork)
-  - [Technical collaboration](#technical-collaboration)
-- [Innovation & (self-)management skills](#innovation--self-management-skills)
-  - [Development process](#development-process)
-  - [Problem solving skills](#problem-solving-skills)
-  - [Mindset](#mindset)
+- [Non-technical skills](#non-technical-skills)
+  - [Core skills](#core-skills-aka-soft-skills)
+    - [Communication](#communication)
+    - [Teamwork](#teamwork)
+    - [Technical collaboration](#technical-collaboration)
+  - [Innovation & (self-)management skills](#innovation--self-management-skills)
+    - [Development process](#development-process)
+    - [Problem solving skills](#problem-solving-skills)
+    - [Mindset](#mindset)
 - [Technical skills](#technical-skills)
   - [General technical knowledge](#general-technical-knowledge)
     - [Principles](#principles)
@@ -35,16 +36,18 @@ _This is a work in progress. Important knowledge might be missing, existing bull
     - [Concurrency](#concurrency)
 
 
-## Core Skills (aka "soft" skills)
+## Non-technical skills
 
-### Communication
+### Core Skills (aka "soft" skills)
+
+#### Communication
 
 * Follow e-mail best practices ([some examples](https://www.grammarly.com/blog/email-etiquette-rules-to-know/))
 * Follow chat best practices ([some Slack examples](https://blog.rescuetime.com/slack-focus-guide/))
 * Minimize interruptions ([some reasons](https://jaxenter.com/aaaand-gone-true-cost-interruptions-128741.html))
 * Be polite
 
-### Teamwork
+#### Teamwork
 
 * Practice empathy
 * Keep low egos
@@ -53,23 +56,23 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 * Share knowledge
 * Engage in constructive decisions
 
-### Technical collaboration
+#### Technical collaboration
 
 * [Pull Request best practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
 * Focus on the relevant pieces when performing code-reviews
 * [Pair Programming best practices](https://martinfowler.com/articles/on-pair-programming.html)
 * Know about [Agile Software Development principles](https://agilemanifesto.org/principles.html)
 
-## Innovation & (self-)management skills
+### Innovation & (self-)management skills
 
-### Development process
+#### Development process
 
 * Comfortable with iterative and incremental development
 * Self-organizing capability
 * Avoid creating false expectations
 * Focus on priorities and business value
 
-### Problem solving skills
+#### Problem solving skills
 
 * Applying the [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)
 * Researching skills
@@ -79,7 +82,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 * [5 Whys](http://en.wikipedia.org/wiki/5_Whys)
 * Risk management
 
-### Mindset
+#### Mindset
 
 * Don't fear change
 * Dare to fail
