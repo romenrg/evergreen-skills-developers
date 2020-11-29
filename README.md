@@ -132,7 +132,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Differences between unit, integration and system tests
  * Test pyramid
  * Continuous Integration
- * Continuous Delivery vs Deployment
+ * [Continuous Delivery vs Deployment](https://www.romenrg.com/blog/2017/12/31/continuous-integration-delivery-deployment/)
  * Feature Flags / Feature Toggles
 
 ### Field-specific technical knowledge
