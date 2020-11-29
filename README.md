@@ -69,7 +69,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 * Comfortable with iterative and incremental development
 * Self-organizing capability
-* Avoid creating false expectations
+* Avoid creating false expectations (e.g. with [time estimates](https://www.romenrg.com/blog/2015/09/28/why-asking-developers-for-time-estimates-in-software-projects-is-a-terrible-idea-and-how-to-bypass-it-with-scrum/))
 * Focus on priorities and business value
 
 #### Problem solving skills
