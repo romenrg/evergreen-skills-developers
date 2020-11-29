@@ -19,7 +19,7 @@ This file keeps a log of version releases. This file is maintained
 ## Release Change History
 
 
-### [3.0.0] - 2020-11-29 Grouping tech vs non-tech skills; plus adding multiple links and style improvements
+### [3.0.0] - 2020-11-29 (Grouping tech vs non-tech skills; plus adding multiple links and style improvements)
 
 ### Added
 
