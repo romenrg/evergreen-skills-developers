@@ -32,7 +32,7 @@ This file keeps a log of version releases. This file is maintained
 * Links on SOLID and GRASP
 * Added package managers and dependency hell to "Dependency management"
 * Added link on "Continuous Delivery vs Deployment"
-* Enhanced "Infrastructure as code" with config and docs. Added link to "Everything as code" article
+* Enhanced "Infrastructure as code" with configuration and docs. Added link to "Everything as code" article
 * CI process running in CodeShip to perform spelling checks
 
 ### Changed
