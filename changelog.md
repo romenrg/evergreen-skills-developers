@@ -18,20 +18,29 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [Unreleased] [2.1.0] - YYYY-MM-DD (Minor fixes in 'principles' section)
 
-#### Added
+### [3.0.0] - 2020-11-29 Grouping tech vs non-tech skills; plus adding multiple links and style improvements
 
-* Included "practice empathy" as a key teamwork skill
+### Added
+
+* Specific link on the importance of proper use of threads in chat apps
+* Link on Pair Programming best practices
+* Link to Agile Software Development principles
+* Link on the importance of empathy
+* Link to the example of time estimates on "avoid creating false expectations"
+* Multiple new problem-solving skills, with links
+* Links on SOLID and GRASP
+* Added package managers and dependency hell to "Dependency management"
+* Added link on "Continuous Delivery vs Deployment"
+* Enhanced "Infrastructure as code" with config and docs. Added link to "Everything as code" article
 * CI process running in CodeShip to perform spelling checks
 
-#### Changed
+### Changed
 
-* Minor fixes:
-  * Replaced ']' by ')' in a reference link within the principles section
-  * General grammar / spelling improvements
-* Rephrasing "control structures" entry
-* Adding "micro commits" as an alternative to "atomic commits"
+* Top level grouping now divided between technical and non-technical skills
+* Most abbreviations now have the full meaning next to them
+* Links are now set as text anchors in most cases (instead of separate in parentheses as before)
+* Fixed some typos
 * Markup improvements: All titles have the same case (capitalized) and always a blank line afterwards
 * Minor improvements to changelog and typo fixed in contributing guideline
 
