@@ -123,7 +123,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Commit best practices ([micro commits](https://lucasr.org/2011/01/29/micro-commits/) / atomic commits, good descriptions...)
  * Feature branches (short-lived)
  * Trunk-based development
- * Dependency management (the importance of package managers, the risks of dependency hell,...)
+ * Dependency management (the importance of package managers, the risks of [dependency hell](https://en.wikipedia.org/wiki/Dependency_hell),...)
 
 #### DevOps practices
 
