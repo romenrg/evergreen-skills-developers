@@ -42,9 +42,9 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Communication
 
-* Follow e-mail best practices ([some examples](https://www.grammarly.com/blog/email-etiquette-rules-to-know/))
+* Follow e-mail best practices (e.g. [some e-mail etiquette rules](https://www.grammarly.com/blog/email-etiquette-rules-to-know/))
 * Follow chat best practices (e.g. [use threads to organize discusions](https://slack.com/intl/en-es/help/articles/115000769927-Use-threads-to-organize-discussions-) and [other best-practices from Slack](https://blog.rescuetime.com/slack-focus-guide/))
-* Minimize interruptions ([some reasons](https://jaxenter.com/aaaand-gone-true-cost-interruptions-128741.html))
+* [Minimize interruptions](https://jaxenter.com/aaaand-gone-true-cost-interruptions-128741.html)
 * Be polite
 
 #### Teamwork
@@ -96,10 +96,10 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 #### Principles
 
  * Basic control structures and boolean algebra
- * OOP
+ * OOP (Object Oriented Programming)
  * [SOLID](https://en.wikipedia.org/wiki/SOLID), [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
  * Functional programming (pure functions, recursion,...)
- * Declarative vs Imperative programming ([see differences](http://amzotti.github.io/programming%20paradigms/2015/02/13/what-is-the-difference-between-procedural-function-imperative-and-declarative-programming-paradigms/))
+ * [Declarative vs Imperative programming](http://amzotti.github.io/programming%20paradigms/2015/02/13/what-is-the-difference-between-procedural-function-imperative-and-declarative-programming-paradigms/)
 
 #### Data structures
 
@@ -118,7 +118,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Collaboration and SCM
 
- * CVS / SCM knowledge
+ * CVS (Control Version Systems) / SCM (Source Code Management) knowledge (e.g. [difference between Git and GitHub](https://stackoverflow.com/a/13321586))
  * Understand why versioning is important
  * Commit best practices ([micro commits](https://lucasr.org/2011/01/29/micro-commits/) / atomic commits, good descriptions...)
  * Feature branches (short-lived)
