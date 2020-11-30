@@ -15,7 +15,6 @@ _This is a work in progress. Important knowledge might be missing, existing bull
   - [Core skills](#core-skills-aka-soft-skills)
     - [Communication](#communication)
     - [Teamwork](#teamwork)
-    - [Technical collaboration](#technical-collaboration)
   - [Innovation & (self-)management skills](#innovation--self-management-skills)
     - [Development process](#development-process)
     - [Problem solving skills](#problem-solving-skills)
@@ -25,7 +24,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
     - [Principles](#principles)
     - [Data Structures](#data-structures) 
     - [Clean Code](#clean-code)
-    - [Collaboration and SCM](#collaboration-and-SCM)
+    - [Source Code Management](#source-code-management)
+    - [Technical collaboration](#technical-collaboration)
     - [DevOps practices](#devops-practices)
   - [Field-specific technical knowledge](#field-specific-technical-knowledge)
     - [Front-end development](#front-end-development)
@@ -55,13 +55,6 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 * Be a good mentor
 * Share knowledge
 * Engage in constructive decisions
-
-#### Technical collaboration
-
-* [Pull Request best practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
-* Focus on the relevant pieces when performing code-reviews
-* [Pair Programming best practices](https://martinfowler.com/articles/on-pair-programming.html)
-* Know about [Agile Software Development principles](https://agilemanifesto.org/principles.html)
 
 ### Innovation & (self-)management skills
 
@@ -116,14 +109,22 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Use lightweight documentation instead of inline-comments
  * [Semantic versioning](https://semver.org/)
 
-#### Collaboration and SCM
+#### Source Code Management
 
- * CVS (Control Version Systems) / SCM (Source Code Management) knowledge (e.g. [difference between Git and GitHub](https://stackoverflow.com/a/13321586))
+ * CVS (Control Version Systems) / SCM (Source Code Management) basics: branches, tags, centralized vs de-centralized,...
+ * SCM vs repository management / hosting (i. e. [difference between Git and GitHub](https://stackoverflow.com/a/13321586))
  * Understand why versioning is important
  * Commit best practices ([micro commits](https://lucasr.org/2011/01/29/micro-commits/) / atomic commits, good descriptions...)
  * Feature branches (short-lived)
  * Trunk-based development
  * Dependency management (the importance of package managers, the risks of [dependency hell](https://en.wikipedia.org/wiki/Dependency_hell),...)
+
+#### Technical collaboration
+
+* [Pull Request best practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
+* Focus on the relevant pieces when performing code-reviews
+* [Pair Programming best practices](https://martinfowler.com/articles/on-pair-programming.html)
+* Know about [Agile Software Development principles](https://agilemanifesto.org/principles.html)
 
 #### DevOps practices
 
