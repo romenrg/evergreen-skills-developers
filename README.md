@@ -60,8 +60,9 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Development process
 
-* Comfortable with iterative and incremental development
-* Self-organizing capability
+* Know about [Agile Software Development principles](https://agilemanifesto.org/principles.html)
+* Be comfortable with iterative and incremental development
+* Have self-organizing capabilities
 * Avoid creating false expectations (e.g. with [time estimates](https://www.romenrg.com/blog/2015/09/28/why-asking-developers-for-time-estimates-in-software-projects-is-a-terrible-idea-and-how-to-bypass-it-with-scrum/))
 * Focus on priorities and business value
 
@@ -124,7 +125,6 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 * [Pull Request best practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
 * Focus on the relevant pieces when performing code-reviews
 * [Pair Programming best practices](https://martinfowler.com/articles/on-pair-programming.html)
-* Know about [Agile Software Development principles](https://agilemanifesto.org/principles.html)
 
 #### DevOps practices
 
