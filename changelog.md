@@ -23,7 +23,7 @@ This file keeps a log of version releases. This file is maintained
 #### Added
 
 * Authentication and Authorization, under Security
-* Regular expresions under a new "Other general technical knowledge" section
+* Regular expressions under a new "Other general technical knowledge" section
 
 #### Changed
 
