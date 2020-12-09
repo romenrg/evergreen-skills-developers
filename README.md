@@ -180,6 +180,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * SQL injection
  * Man-in-the-middle attack
  * XSS and CSRF
+ * Authentication (JWT, SSO)
+ * Authorization (RBAC, ABAC)
 
 #### Scaling & optimization
 
