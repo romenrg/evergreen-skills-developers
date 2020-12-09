@@ -27,6 +27,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
     - [Source Code Management](#source-code-management)
     - [Technical collaboration](#technical-collaboration)
     - [DevOps practices](#devops-practices)
+    - [Other general technical knowledge](#other-general-technical-knowledge)
   - [Field-specific technical knowledge](#field-specific-technical-knowledge)
     - [Front-end development](#front-end-development)
     - [Back-end development](#back-end-development)
@@ -135,6 +136,11 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Continuous Integration
  * [Continuous Delivery vs Deployment](https://www.romenrg.com/blog/2017/12/31/continuous-integration-delivery-deployment/)
  * Feature Flags / Feature Toggles
+ 
+#### Other general technical knowledge 
+
+ * Regular expressions (regex)
+
 
 ### Field-specific technical knowledge
 
