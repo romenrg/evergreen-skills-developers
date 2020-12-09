@@ -82,7 +82,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 * Don't fear change
 * Dare to fail
 * Be a life-long learner
-* [Critical_Thinking](#https://en.wikipedia.org/wiki/Critical_thinking) (be rational, question decisions, "let the facts do the talking")
+* [Critical Thinking](https://en.wikipedia.org/wiki/Critical_thinking) (be rational, question decisions, "let the facts do the talking")
 
 ## Technical skills
 
