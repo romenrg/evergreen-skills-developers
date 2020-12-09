@@ -18,6 +18,13 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
+### [Unreleased] [3.1.0] - YYYY-MM-DD ()
+
+### Added
+
+* Authentication and Authorization, under Security
+* Regular expresions under a new "Other general technical knowledge" section
+
 
 ### [3.0.0] - 2020-11-30 (Grouping tech vs non-tech skills; plus adding multiple links and style improvements)
 
