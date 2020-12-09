@@ -20,12 +20,12 @@ This file keeps a log of version releases. This file is maintained
 
 ### [Unreleased] [3.1.0] - YYYY-MM-DD ()
 
-### Added
+#### Added
 
 * Authentication and Authorization, under Security
 * Regular expresions under a new "Other general technical knowledge" section
 
-### Changed
+#### Changed
 
 * .
 
@@ -35,7 +35,7 @@ This file keeps a log of version releases. This file is maintained
 
 ### [3.0.0] - 2020-11-30 (Grouping tech vs non-tech skills; plus adding multiple links and style improvements)
 
-### Added
+#### Added
 
 * Specific link on the importance of proper use of threads in chat apps
 * Link on Pair Programming best practices
@@ -49,7 +49,7 @@ This file keeps a log of version releases. This file is maintained
 * Enhanced "Infrastructure as code" with configuration and docs. Added link to "Everything as code" article
 * CI process running in CodeShip to perform spelling checks
 
-### Changed
+#### Changed
 
 * Top level grouping now divided between technical and non-technical skills
 * Most abbreviations now have the full meaning next to them
