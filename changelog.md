@@ -27,7 +27,7 @@ This file keeps a log of version releases. This file is maintained
 
 #### Changed
 
-* .
+* Grouped the "be rational and facts-based" entry into Critical Thinking, with link to its definition
 
 #### Removed
 
