@@ -24,6 +24,8 @@ This file keeps a log of version releases. This file is maintained
 
 * Authentication and Authorization, under Security
 * Regular expressions under a new "Other general technical knowledge" section
+* Stack vs Heap, under Data Structures
+* Processes vs Threads, under Architecture & Infrastructure
 
 #### Changed
 
