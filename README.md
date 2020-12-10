@@ -169,6 +169,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * [Everything as code (i.e. Configuration as code, Infrastructure as code, Docs as code,...)](https://www.romenrg.com/blog/2019/12/31/everything-as-code/)
  * Microservices
  * Virtual machines vs Containers
+ * Processes vs threads
  * Master-slave pattern
  * Client-server pattern
  * IAAS, PAAS, SASS
