@@ -101,6 +101,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Basic structures (basic types, array, matrix, object...)
  * Caching / memoization
  * Hash codes, tokens, encodings (e.g. Base64)
+ * [Stack vs heap](https://stackoverflow.com/a/80113/1213497) memory
 
 #### Clean code
 
