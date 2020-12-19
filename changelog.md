@@ -29,6 +29,7 @@ This file keeps a log of version releases. This file is maintained
 
 #### Changed
 
+* Improved introduction to better reflect the importance of evergreen skills and portable technical knowledge
 * Grouped the "be rational and facts-based" entry into Critical Thinking, with link to its definition
 
 #### Removed
