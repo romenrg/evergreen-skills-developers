@@ -3,7 +3,11 @@
 
 This repository includes a list of "evergreen skills" that should serve as a fair assessment of skilled software engineers / developers.
 
-The purpose of this work is to serve as an alternative resource for conducting technical interviews of software developers / engineers, when hiring. This document focuses on software development best practices, cross-framework principles and other portable skills; as opposed to the detrimental fixation on language trends and framework-specific knowledge that we often see. Programming languages evolve constantly, companies change their tech stacks, frameworks quickly become outdated, and syntax-related questions can easily be looked up by skilled engineers in search engines whenever they need it. There are, however, alternative cross-framework technical principles and evergreen skills that cannot be easily googled and better reflect the real value software developers / engineers bring to an organization.
+The purpose of this work is to serve as an alternative resource for conducting technical interviews of software developers / engineers, when hiring. This document focuses on software development best practices, cross-framework principles and other portable skills; as opposed to the detrimental fixation on language trends and framework-specific knowledge that we often see in the industry.
+
+Programming languages evolve constantly, companies change their tech stacks, frameworks quickly become outdated, and syntax-related questions can easily be looked up by skilled engineers in search engines, quickly, whenever they need it.
+
+There are, however, software development best practices, cross-framework technical principles and evergreen skills that cannot be easily googled. These are better at reflecting the real value software developers / engineers bring to an organization or team.
 
 This repository is a derivative work of the following article: "[What Makes a Great Software Engineer](https://www.romenrg.com/blog/2018/12/29/what-makes-a-great-software-engineer)".
 
