@@ -174,7 +174,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Microservices
  * Virtual machines vs Containers
  * Processes vs threads
- * Master-slave pattern
+ * Controller-agent / Primary-replica pattern
  * Client-server pattern
  * IAAS, PAAS, SASS
 
