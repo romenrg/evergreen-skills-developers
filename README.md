@@ -5,9 +5,9 @@ This repository includes a list of "evergreen skills" that should serve as a fai
 
 The purpose of this work is to serve as an alternative resource for conducting technical interviews of software developers / engineers, when hiring. This document focuses on software development best practices, cross-framework principles and other portable skills; as opposed to the detrimental fixation on language trends and framework-specific knowledge that we often see in the industry.
 
-Programming languages evolve constantly, companies change their tech stacks, frameworks quickly become outdated, and syntax-related questions can easily be looked up by skilled engineers in search engines, whenever they need it. So, does it make sense to focus on those aspects when interviewing candidates?
+Programming languages evolve constantly, companies change their tech stacks, frameworks quickly become outdated, and syntax-related questions can easily be looked up by skilled engineers in search engines in minutes, whenever they need it. So, does it make sense to focus on those aspects when interviewing candidates?
 
-On the other hand, there are software development best practices, cross-framework technical principles and critical non-technical skills that cannot be easily googled, take time to learn, are "evergreen" and have a huge impact on enfineer's performance. These are significantly better at reflecting the real value a software developer / engineer brings to an organization or team.
+On the other hand, there are software development best practices, cross-framework technical principles and critical non-technical skills that cannot be easily googled, take time to learn, are "evergreen" and have a huge impact on engineer's performance. These are significantly better at reflecting the real value a software developer / engineer brings to an organization or team.
 
 This repository is a derivative work of the following article: "[What Makes a Great Software Engineer](https://www.romenrg.com/blog/2018/12/29/what-makes-a-great-software-engineer)".
 
