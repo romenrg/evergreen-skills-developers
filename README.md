@@ -1,9 +1,9 @@
 # Evergreen Skills for Software Developers
 [![Codeship Status for romenrg/evergreen-skills-developers](https://app.codeship.com/projects/57d86950-fee3-0136-cc17-56b6e41314e7/status?branch=master)](https://app.codeship.com/projects/322711)
 
-This repository includes a list of "evergreen skills" that should serve as a fair assessment of skilled software developers / engineers.
+This repository includes a list of "evergreen skills" that should serve as a fair assessment of skilled software engineers / developers.
 
-The purpose of this work is to serve as an alternative resource for conducting technical interviews of software developers / engineers, when hiring. This document focuses on software development best practices, cross-framework principles and other portable skills; as opposed to the detrimental fixation on language trends and framework-specific knowledge that we often see. Programming languages evolve constantly, companies change their tech stacks, frameworks quickly become outdated, and syntax-related questions can easily be looked up by skilled engineers in search engines whenever they neede it. There are, however, alternative cross-framework technical principles and evergreen skills that cannot be easily googled and better reflect the real value software developers / engineers bring to an organization.
+The purpose of this work is to serve as an alternative resource for conducting technical interviews of software developers / engineers, when hiring. This document focuses on software development best practices, cross-framework principles and other portable skills; as opposed to the detrimental fixation on language trends and framework-specific knowledge that we often see. Programming languages evolve constantly, companies change their tech stacks, frameworks quickly become outdated, and syntax-related questions can easily be looked up by skilled engineers in search engines whenever they need it. There are, however, alternative cross-framework technical principles and evergreen skills that cannot be easily googled and better reflect the real value software developers / engineers bring to an organization.
 
 This repository is a derivative work of the following article: "[What Makes a Great Software Engineer](https://www.romenrg.com/blog/2018/12/29/what-makes-a-great-software-engineer)".
 
@@ -200,4 +200,4 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ---
 
-_This work is released under the terms specified in [this license file](LICENSE), based on MIT License._
+_This work is released by [Romén Rodríguez-Gil](http://romenrg.com/) under the terms specified in [this license file](LICENSE), based on MIT License._
