@@ -3,7 +3,7 @@
 
 This repository includes a list of "evergreen skills" that should serve as a fair assessment of skilled software developers / engineers.
 
-The purpose of this work is to serve as an alternative resource for conducting hiring interviews of software developers / engineers. This document focuses on software development best practices, cross-framework principles and other portable skills; instead of the usual focus on trends and/or specific knowledge of short-lived frameworks, which tend to quickly become outdated and often don't reflect the real value software developers / engineers bring to the organization.
+The purpose of this work is to serve as an alternative resource for conducting technical interviews of software developers / engineers, when hiring. This document focuses on software development best practices, cross-framework principles and other portable skills; as opposed to the detrimental fixation on language trends and framework-specific knowledge that we often see. Programming languages evolve constantly, companies change their tech stacks, frameworks quickly become outdated, and syntax-related questions can easily be looked up by skilled engineers in search engines whenever they neede it. There are, however, alternative cross-framework technical principles and evergreen skills that cannot be easily googled and better reflect the real value software developers / engineers bring to an organization.
 
 This repository is a derivative work of the following article: "[What Makes a Great Software Engineer](https://www.romenrg.com/blog/2018/12/29/what-makes-a-great-software-engineer)".
 
