@@ -183,6 +183,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 #### Security
 
  * Public-key cryptosystems (e.g. RSA)
+ * Cryptographic protocols (TLS, SSL)
  * Principle of least privilege
  * DoS / DDoS
  * SQL injection
