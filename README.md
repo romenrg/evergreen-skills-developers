@@ -94,7 +94,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Principles
 
- * Basic control structures and boolean algebra
+ * Basic [control structures](https://en.wikipedia.org/wiki/Control_flow) and [boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
  * OOP (Object Oriented Programming)
  * [SOLID](https://en.wikipedia.org/wiki/SOLID), [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
  * Functional programming (pure functions, immutability, recursion,...)
