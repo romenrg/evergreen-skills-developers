@@ -161,9 +161,10 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 #### Back-end development
 
  * Relational databases (how they work, basic concepts...)
- * Batch processes / Cron Jobs
+ * Non-relational databases
  * Database design
  * ORM
+ * Batch processes / Cron Jobs
  * Session handling
  * Error Handling, Auditing and Logging
 
