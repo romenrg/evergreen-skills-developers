@@ -128,8 +128,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Technical collaboration
 
-* [Pull Request best practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
-* Focus on the relevant pieces when performing code-reviews
+* [Peer Code Review best practices](https://blog.github.com/2015-01-21-how-to-write-the-perfect-pull-request/)
+    * TL;DR: Focus on the relevant pieces when performing code-reviews. The purpose is learning, not blaming.
 * [Pair Programming best practices](https://martinfowler.com/articles/on-pair-programming.html)
 
 #### DevOps practices
