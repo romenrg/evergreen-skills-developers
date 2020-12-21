@@ -97,7 +97,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Basic control structures and boolean algebra
  * OOP (Object Oriented Programming)
  * [SOLID](https://en.wikipedia.org/wiki/SOLID), [GRASP](https://en.wikipedia.org/wiki/GRASP_(object-oriented_design))
- * Functional programming (pure functions, recursion,...)
+ * Functional programming (pure functions, immutability, recursion,...)
  * [Declarative vs Imperative programming](http://amzotti.github.io/programming%20paradigms/2015/02/13/what-is-the-difference-between-procedural-function-imperative-and-declarative-programming-paradigms/)
 
 #### Data structures
