@@ -26,11 +26,20 @@ This file keeps a log of version releases. This file is maintained
 * Regular expressions under a new "Other general technical knowledge" section
 * Stack vs Heap, under Data Structures
 * Processes vs Threads, under Architecture & Infrastructure
+* Non-relational databases, under back-end development
+* Pagination, under front-end development
+* Cryptographic protocols (TLS, SSL), in Security
+* Relevant internet protocols, in Infrastructure
+* Immutability, in Functional Programming, within Principles
 
 #### Changed
 
 * Improved introduction to better reflect the importance of evergreen skills and portable technical knowledge
+* Improved license note
 * Grouped the "be rational and facts-based" entry into Critical Thinking, with link to its definition
+* Renamed "master-slave" to "Controller-agent / Primary-replica"
+* Improved Peer Code Review best practice adding TL;DR note
+* Links for "control structures" and "boolean algebra"
 
 #### Removed
 
