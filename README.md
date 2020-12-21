@@ -179,6 +179,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Controller-agent / Primary-replica pattern
  * Client-server pattern
  * IAAS, PAAS, SASS
+ * Relevant internet protocols: HTTP, HTTPS, TCP, UDP, LDAP, SSH, SMTP
 
 #### Security
 
