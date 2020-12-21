@@ -154,6 +154,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * DOM (definition, understanding, virtual DOM...)
  * Responsive design (purpose, advantages, progressive enhancement...)
  * API standards: REST / SOAP
+ * Pagination
  * State management (associated problems, stateless approach...)
  * MVC and derivatives
  * WebSockets
