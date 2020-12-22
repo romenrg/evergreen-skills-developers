@@ -111,11 +111,11 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
   * Good naming is key to improve code understanding (for files, classes, variables / attributes, functions / methods...)
   * Avoid inline comments in your code
-     * Inline coments are often considered a "code smell" since [code comments usually lie](https://www.codeproject.com/Articles/872073/Code-Comments-are-Lies) and tend to be shortcuts used to make poor code understandable (there might be some exceptions)
+     * Inline comments are often considered a "code smell" since [code comments usually lie](https://www.codeproject.com/Articles/872073/Code-Comments-are-Lies) and tend to be shortcuts used to make poor code understandable (there might be some exceptions)
  * Write self-explanatory code (i.e. "what" the code does should be clear when reading it)
  * Use lightweight documentation (e.g. markdown files within the project) to describe "whys" and "hows" (i.e. business needs being tackled and high-level architecture overview)
  * Follow conventions to organize project structure
- * Avoid long functions and classes, make sure to split responsabilities properly into methods/functions and/or classes/files
+ * Avoid long functions and classes, make sure to split responsibilities properly into methods/functions and/or classes/files
  * In OOP, favor [composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
  * Extract complex boolean conditions into well-named functions
  * Follow [semantic versioning](https://semver.org/)
