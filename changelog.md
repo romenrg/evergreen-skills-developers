@@ -31,6 +31,7 @@ This file keeps a log of version releases. This file is maintained
 * Cryptographic protocols (TLS, SSL), in Security
 * Relevant internet protocols, in Infrastructure
 * Immutability, in Functional Programming, within Principles
+* Client-side rendering (CSR) vs server-side rendering (SSR), in front-end development
 
 #### Changed
 
@@ -40,6 +41,7 @@ This file keeps a log of version releases. This file is maintained
 * Renamed "master-slave" to "Controller-agent / Primary-replica"
 * Improved Peer Code Review best practice adding TL;DR note
 * Links for "control structures" and "boolean algebra"
+* Further clarifications in Clean Code section
 
 #### Removed
 
