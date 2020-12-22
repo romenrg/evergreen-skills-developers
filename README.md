@@ -158,6 +158,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * DOM (definition, understanding, virtual DOM...)
  * Responsive design (purpose, advantages, progressive enhancement...)
  * API standards: REST / SOAP
+ * Client-side rendering (CSR) vs server-side rendering (SSR)
  * Pagination
  * State management (associated problems, stateless approach...)
  * MVC and derivatives
