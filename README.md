@@ -174,9 +174,9 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Non-relational databases
  * Database design
  * ORM
- * Batch processes / Cron Jobs
+ * Batch processes / Cron jobs
  * Session handling
- * Error Handling, Auditing and Logging
+ * [Error Handling, Auditing and Logging](https://lti.umuc.edu/contentadaptor/topics/byid/db0a8c4f-f738-4674-9f60-b75323cdb07f)
 
 #### Architecture
 
