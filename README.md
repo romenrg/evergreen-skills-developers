@@ -185,7 +185,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * [Everything as code (i.e. Configuration as code, Infrastructure as code, Docs as code,...)](https://www.romenrg.com/blog/2019/12/31/everything-as-code/)
  * Monolith vs Microservices
  * Service Mesh
- * Relevant internet protocols and their usage (HTTP, HTTPS, TCP, UDP, LDAP, SSH, SMTP)
+ * Relevant internet protocols and their usage (i.e. HTTP, HTTPS, TCP, UDP, LDAP, SSH, SMTP,...)
  * [Data modeling](https://en.wikipedia.org/wiki/Data_modeling)
  
  #### Infrastructure
