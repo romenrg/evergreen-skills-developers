@@ -23,7 +23,7 @@ This file keeps a log of version releases. This file is maintained
 #### Added
 
 * IAM, Authentication and Authorization; under Security
-* Regular expressions under a new "Other general technical knowledge" section
+* Language-theory knowledge, under a new "Other general technical knowledge" section (includes regrex)
 * Stack vs Heap, under Data Structures
 * Non-relational databases, under back-end development
 * Message brokers, under back-end development
@@ -38,7 +38,7 @@ This file keeps a log of version releases. This file is maintained
 * Immutability, in Functional Programming, within Principles
 * Client-side rendering (CSR) vs server-side rendering (SSR), in front-end development
 * Browser events, under front-end development
-* Profiling, under "Scaling & optimization"
+* Profiling, under Optimization
 
 #### Changed
 
@@ -51,10 +51,11 @@ This file keeps a log of version releases. This file is maintained
 * Further clarifications in Clean Code section
 * Split Architecture and Infrastructure
 * Monolith vs Microservices, in Architecture
+* Concurrency is now part of "Other general technical knowledge"
 
 #### Removed
 
-* .
+* Scaling and optimization section. Optimization is now under "Other general technical knowledge" and the scaling-related bullets are part of Infrastructure now
 
 ### [3.0.0] - 2020-11-30 (Grouping tech vs non-tech skills; plus adding multiple links and style improvements)
 
