@@ -18,20 +18,27 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [Unreleased] [3.1.0] - YYYY-MM-DD ()
+### [Unreleased] [4.0.0] - YYYY-MM-DD ()
 
 #### Added
 
-* Authentication and Authorization, under Security
+* IAM, Authentication and Authorization; under Security
 * Regular expressions under a new "Other general technical knowledge" section
 * Stack vs Heap, under Data Structures
-* Processes vs Threads, under Architecture & Infrastructure
 * Non-relational databases, under back-end development
+* Message brokers, under back-end development
 * Pagination, under front-end development
 * Cryptographic protocols (TLS, SSL), in Security
-* Relevant internet protocols, in Infrastructure
+* Relevant internet protocols, in Architecture
+* Service Mesh, in Architecture
+* Data modeling, in Architecture
+* Processes vs Threads, under Infrastructure
+* Web servers and reverse proxies, under Infrastructure
+* Monitoring and Observability, under Infrastructure
 * Immutability, in Functional Programming, within Principles
 * Client-side rendering (CSR) vs server-side rendering (SSR), in front-end development
+* Browser events, under front-end development
+* Profiling, under "Scaling & optimization"
 
 #### Changed
 
@@ -42,6 +49,8 @@ This file keeps a log of version releases. This file is maintained
 * Improved Peer Code Review best practice adding TL;DR note
 * Links for "control structures" and "boolean algebra"
 * Further clarifications in Clean Code section
+* Split Architecture and Infrastructure
+* Monolith vs Microservices, in Architecture
 
 #### Removed
 
