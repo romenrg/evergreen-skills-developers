@@ -155,9 +155,10 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Front-end development
 
+ * API communication (different architecture standards, how data is transmitted...)
  * DOM (definition, understanding, virtual DOM...)
+ * Browser events
  * Responsive design (purpose, advantages, progressive enhancement...)
- * API standards: REST / SOAP
  * Client-side rendering (CSR) vs server-side rendering (SSR)
  * Pagination
  * State management (associated problems, stateless approach...)
@@ -166,6 +167,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Back-end development
 
+ * API design (different architecture standards, how data is transmitted...)
+ * [Message brokers](https://en.wikipedia.org/wiki/Message_broker)
  * Relational databases (how they work, basic concepts...)
  * Non-relational databases
  * Database design
@@ -176,6 +179,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Architecture & infrastructure
 
+ * API standards: REST / SOAP
  * Externalized Configuration
  * [Everything as code (i.e. Configuration as code, Infrastructure as code, Docs as code,...)](https://www.romenrg.com/blog/2019/12/31/everything-as-code/)
  * Microservices
