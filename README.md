@@ -35,7 +35,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
   - [Field-specific technical knowledge](#field-specific-technical-knowledge)
     - [Front-end development](#front-end-development)
     - [Back-end development](#back-end-development)
-    - [Architecture & infrastructure](#architecture--infrastructure)
+    - [Architecture](#architecture)
+    - [Infrastructure](#infrastructure)
     - [Security](#security)
     - [Scaling & optimization](#scaling--optimization)
     - [Concurrency](#concurrency)
@@ -177,18 +178,28 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Session handling
  * Error Handling, Auditing and Logging
 
-#### Architecture & infrastructure
+#### Architecture
 
  * API standards: REST / SOAP
  * Externalized Configuration
  * [Everything as code (i.e. Configuration as code, Infrastructure as code, Docs as code,...)](https://www.romenrg.com/blog/2019/12/31/everything-as-code/)
- * Microservices
+ * Monolith vs Microservices
+ * Service Mesh
+ * Relevant internet protocols and their usage (HTTP, HTTPS, TCP, UDP, LDAP, SSH, SMTP)
+ * [Data modeling](https://en.wikipedia.org/wiki/Data_modeling)
+ 
+ #### Infrastructure
+ 
  * Virtual machines vs Containers
  * Processes vs threads
  * Controller-agent / Primary-replica pattern
  * Client-server pattern
  * IAAS, PAAS, SASS
- * Relevant internet protocols: HTTP, HTTPS, TCP, UDP, LDAP, SSH, SMTP
+ * Web servers
+ * Reverse proxies
+ * Load balancers
+ * Monitoring
+ * [Observability](https://docs.honeycomb.io/learning-about-observability/intro-to-observability/)
 
 #### Security
 
