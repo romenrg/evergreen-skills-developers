@@ -203,6 +203,9 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Security
 
+  * Identity and Access Management (IAM)
+    * Authentication (JWT, SSO)
+    * Authorization (RBAC, ABAC)
  * Public-key cryptosystems (e.g. RSA)
  * Cryptographic protocols (TLS, SSL)
  * Principle of least privilege
@@ -210,8 +213,6 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * SQL injection
  * Man-in-the-middle attack
  * XSS and CSRF
- * Authentication (JWT, SSO)
- * Authorization (RBAC, ABAC)
 
 #### Scaling & optimization
 
