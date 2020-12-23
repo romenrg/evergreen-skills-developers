@@ -32,15 +32,15 @@ _This is a work in progress. Important knowledge might be missing, existing bull
     - [Technical collaboration](#technical-collaboration)
     - [DevOps practices](#devops-practices)
     - [Other general technical knowledge](#other-general-technical-knowledge)
+      - [Language-related](#language-related)
+      - [Optimization](#optimization)
+      - [Concurrency](#concurrency)   
   - [Field-specific technical knowledge](#field-specific-technical-knowledge)
     - [Front-end development](#front-end-development)
     - [Back-end development](#back-end-development)
     - [Architecture](#architecture)
     - [Infrastructure](#infrastructure)
     - [Security](#security)
-    - [Scaling & optimization](#scaling--optimization)
-    - [Concurrency](#concurrency)
-
 
 ## Non-technical skills
 
@@ -149,8 +149,22 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  
 #### Other general technical knowledge 
 
- * Regular expressions (regex)
+##### Language-related
 
+ * Regular expressions (regex)
+ * Compiled vs interpreted languages
+ * Strongly vs weekly typed languages
+
+##### Optimization
+
+ * Lazy loading
+ * [Profiling](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
+
+##### Concurrency
+
+ * Race condition
+ * Deadlock
+ * Mutual exclusion
 
 ### Field-specific technical knowledge
 
@@ -197,6 +211,9 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * IAAS, PAAS, SASS
  * Web servers
  * Reverse proxies
+ * Load balancing
+ * Redundancy
+ * Latency
  * Monitoring
  * [Observability](https://docs.honeycomb.io/learning-about-observability/intro-to-observability/)
 
@@ -212,20 +229,6 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * SQL injection
  * Man-in-the-middle attack
  * XSS and CSRF
-
-#### Scaling & optimization
-
- * Load balancing
- * Redundancy
- * Latency
- * Lazy loading
- * [Profiling](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
-
-#### Concurrency
-
- * Race condition
- * Deadlock
- * Mutual exclusion
 
 ---
 
