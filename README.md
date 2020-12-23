@@ -219,6 +219,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Redundancy
  * Latency
  * Lazy loading
+ * [Profiling](https://en.wikipedia.org/wiki/Profiling_(computer_programming))
 
 #### Concurrency
 
