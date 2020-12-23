@@ -32,7 +32,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
     - [Technical collaboration](#technical-collaboration)
     - [DevOps practices](#devops-practices)
     - [Other general technical knowledge](#other-general-technical-knowledge)
-      - [Language-related](#language-related)
+      - [Language-related](#language-theory-knowledge)
       - [Optimization](#optimization)
       - [Concurrency](#concurrency)   
   - [Field-specific technical knowledge](#field-specific-technical-knowledge)
