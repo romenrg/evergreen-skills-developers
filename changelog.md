@@ -23,7 +23,7 @@ This file keeps a log of version releases. This file is maintained
 #### Added
 
 * IAM, Authentication and Authorization; under Security
-* Language-theory knowledge, under a new "Other general technical knowledge" section (includes regrex)
+* Language-theory knowledge, under a new "Other general technical knowledge" section (includes regex)
 * Stack vs Heap, under Data Structures
 * Non-relational databases, under back-end development
 * Message brokers, under back-end development
@@ -55,7 +55,7 @@ This file keeps a log of version releases. This file is maintained
 
 #### Removed
 
-* Scaling and optimization section. Optimization is now under "Other general technical knowledge" and the scaling-related bullets are part of Infrastructure now
+* Scaling and optimization section. Optimization is now under "Other general technical knowledge" and the scaling-related bullets are part of Infrastructure
 
 ### [3.0.0] - 2020-11-30 (Grouping tech vs non-tech skills; plus adding multiple links and style improvements)
 
