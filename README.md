@@ -197,7 +197,6 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * IAAS, PAAS, SASS
  * Web servers
  * Reverse proxies
- * Load balancers
  * Monitoring
  * [Observability](https://docs.honeycomb.io/learning-about-observability/intro-to-observability/)
 
