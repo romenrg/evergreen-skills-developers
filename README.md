@@ -149,7 +149,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  
 #### Other general technical knowledge 
 
-##### Language-related
+##### Language-theory knowledge
 
  * Regular expressions (regex)
  * Compiled vs interpreted languages
