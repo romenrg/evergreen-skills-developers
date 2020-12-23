@@ -18,7 +18,7 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [Unreleased] [4.0.0] - YYYY-MM-DD ()
+### [4.0.0] - 2020-12-23 ()
 
 #### Added
 
