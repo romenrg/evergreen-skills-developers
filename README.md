@@ -153,7 +153,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
  * Regular expressions (regex)
  * Compiled vs interpreted languages
- * Language typing: [dynamic vs static & weak vs strong typing](https://medium.com/@cpave3/understanding-types-static-vs-dynamic-strong-vs-weak-88a4e1f0ed5f)
+ * [Dynamic vs static & weak vs strong](https://medium.com/@cpave3/understanding-types-static-vs-dynamic-strong-vs-weak-88a4e1f0ed5f) language typing
 
 ##### Optimization
 
