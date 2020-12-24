@@ -39,6 +39,7 @@ This file keeps a log of version releases. This file is maintained
 * Client-side rendering (CSR) vs server-side rendering (SSR), in front-end development
 * Browser events, under front-end development
 * Profiling, under Optimization
+* Artifact repositories and image registries, in DevOps practices
 
 #### Changed
 
@@ -48,10 +49,11 @@ This file keeps a log of version releases. This file is maintained
 * Renamed "master-slave" to "Controller-agent / Primary-replica"
 * Improved Peer Code Review best practice adding TL;DR note
 * Links for "control structures" and "boolean algebra"
-* Further clarifications in Clean Code section
+* Significant improvements to Clean Code section
 * Split Architecture and Infrastructure
 * Monolith vs Microservices, in Architecture
 * Concurrency is now part of "Other general technical knowledge"
+* Replaced "system tests" with "end-to-end tests"
 
 #### Removed
 
