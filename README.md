@@ -110,16 +110,16 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Clean code
 
-  * Acknowledge that naming is key to code readability (files, classes, variables / attributes, functions / methods...)
-  * Try to write code that is self-explanatory (i.e. "what" the code does is clear when reading it)
-  * Favor good naming and lightweight documentation over inline comments in your code
-     * [Code comments often lie](https://www.codeproject.com/Articles/872073/Code-Comments-are-Lies) and tend to be shortcuts to make poor code understandable, instead of refactoring (there are some exceptions)
- * Write documentation as code, idealy alongside code, for easier maintenance (e.g. markdown files in a "docs" folder in your repository)
- * Use docs to describe "whys" and "hows" (e.g. business needs being tackled and high-level architecture overview)
- * Follow conventions to organize project structure
+ * Acknowledge that naming is key to code readability (files, classes, variables / attributes, functions / methods...)
  * Avoid long functions and classes, making sure to split responsibilities properly into methods/functions and/or classes/files
- * In OOP, favor [composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
+ * Follow conventions to organize project structure
  * Extract complex boolean conditions into well-named functions
+ * Try to write code that is as self-explanatory as possible (i.e. "what" the code does is easy to understand by reading it)
+ * Favor good naming and lightweight documentation over inline comments
+     * [Code comments often lie](https://www.codeproject.com/Articles/872073/Code-Comments-are-Lies) and are usually shortcuts written to explain what a messy code block does, instead of investing the time in refactoring it to improve its readability
+ * Write documentation as code, ideally alongside code, for easier maintenance (e.g. markdown files in a "docs" folder in your repository)
+ * Use docs to describe "whys" and "hows" (e.g. goals, use cases, components, high-level architecture overview,...)
+ * In OOP, favor [composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
  * Follow [semantic versioning](https://semver.org/)
  * Know about TDD and its practices (e.g. "red, green, refactor")
 
