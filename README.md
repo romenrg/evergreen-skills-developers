@@ -143,7 +143,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
  * Build automation 
  * Write automated tests
- * Differences between unit, integration and system tests
+ * Differences between unit, integration and end-to-end (e2e) tests
  * Test pyramid
  * Continuous Integration
  * [Continuous Delivery vs Deployment](https://www.romenrg.com/blog/2017/12/31/continuous-integration-delivery-deployment/)
