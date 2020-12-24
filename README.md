@@ -110,16 +110,18 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### Clean code
 
-  * Good naming is key to improve code understanding (for files, classes, variables / attributes, functions / methods...)
-  * Avoid inline comments in your code
-     * Inline comments are often considered a "code smell" since [code comments usually lie](https://www.codeproject.com/Articles/872073/Code-Comments-are-Lies) and tend to be shortcuts used to make poor code understandable (there might be some exceptions)
- * Write self-explanatory code (i.e. "what" the code does should be clear when reading it)
- * Use lightweight documentation (e.g. markdown files within the project) to describe "whys" and "hows" (i.e. business needs being tackled and high-level architecture overview)
+  * Acknowledge that naming is key to code readability (files, classes, variables / attributes, functions / methods...)
+  * Try to write code that is self-explanatory (i.e. "what" the code does is clear when reading it)
+  * Favor good naming and lightweight documentation over inline comments in your code
+     * [Code comments often lie](https://www.codeproject.com/Articles/872073/Code-Comments-are-Lies) and tend to be shortcuts to make poor code understandable, instead of refactoring (there are some exceptions)
+ * Write documentation as code, idealy alongside code, for easier maintenance (e.g. markdown files in a "docs" folder in your repository)
+ * Use docs to describe "whys" and "hows" (e.g. business needs being tackled and high-level architecture overview)
  * Follow conventions to organize project structure
- * Avoid long functions and classes, make sure to split responsibilities properly into methods/functions and/or classes/files
+ * Avoid long functions and classes, making sure to split responsibilities properly into methods/functions and/or classes/files
  * In OOP, favor [composition over inheritance](https://en.wikipedia.org/wiki/Composition_over_inheritance)
  * Extract complex boolean conditions into well-named functions
  * Follow [semantic versioning](https://semver.org/)
+ * Know about TDD and its practices (e.g. "red, green, refactor")
 
 #### Source Code Management
 
