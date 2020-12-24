@@ -235,4 +235,4 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ---
 
-_This work, by [Romén Rodríguez-Gil](https://www.romenrg.com/about/), is released under the terms specified in [this license file](LICENSE) (based on the MIT License)._
+_This work, by [Romén Rodríguez-Gil](https://www.romenrg.com/about/), is released under the terms specified in [this license file](LICENSE) (MIT License)._
