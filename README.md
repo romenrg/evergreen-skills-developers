@@ -141,7 +141,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 #### DevOps practices
 
- * Build automation 
+ * Build automation
+ * Artifact repositories and image registries
  * Write automated tests
  * Differences between unit, integration and end-to-end (e2e) tests
  * Test pyramid
