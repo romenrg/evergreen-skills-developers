@@ -2,7 +2,7 @@
 
 This page provides information about contributing to this list of Evergreen Skills for Software Developers.
 
-The preferred way of contributing is by means of Pull Requests (PRs), but if you cannot afford the time, [issues](https://github.com/romenrg/evergreen-skills-developers/issues) are also welcome, provided you follow the Code of Conduct as mentioned below.
+The preferred way of contributing is by means of [Pull Requests](#pull-requests-creation-guidelines) (PRs), but if you cannot afford the time, [issues](https://github.com/romenrg/evergreen-skills-developers/issues) are also welcome, provided you follow the Code of Conduct as mentioned below.
 
 ## Code of Conduct
 
@@ -10,7 +10,7 @@ This project and everyone participating in it is governed by the following [Code
 
 ## Pull Requests creation guidelines
 
-### Get your copy
+### First, get your copy
 
 * Fork the repository on GitHub.
 * Clone the forked repository to your machine.
@@ -18,7 +18,7 @@ This project and everyone participating in it is governed by the following [Code
 
 For more information, please refer to [GitHub's instructions on this](https://help.github.com/articles/fork-a-repo/).
 
-## Propose Changes
+### Then, propose Changes
 
 To submit changes:
  * Make sure your local copy is updated.
