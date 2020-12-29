@@ -175,7 +175,7 @@ There is evergreen technical knowledge that is relevant for any software enginee
 
 ### Field-specific technical knowledge
 
-In some cases you may want an engineer to know about certain fields or areas, such as front-end, back-end, architecture, infrastructure or security. In those cases, there are also cross-framework concepts and principles that we cab use to drive conversations on technical knowledge that is specific to each field.
+In some cases, you may want an engineer to know about certain fields or areas already, such as front-end, back-end, architecture, infrastructure or security. In those cases, there are also cross-framework concepts and principles that can be used to drive conversations on technical knowledge that is specific to each one of those fields.
 
 #### Front-end development
 
