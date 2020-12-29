@@ -18,7 +18,21 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [4.0.0] - 2020-12-23 ()
+### [4.1.0] - 2020-12-29 ()
+
+#### Added
+
+* Domain-Driven Design (DDD) and Hexagonal Architecture, in Architecture
+
+#### Changed
+
+* Added intro for main sections: "Non-technical skills", "General technical knowledge" and "Field-specific technical knowledge"
+
+#### Removed
+
+*
+
+### [4.0.0] - 2020-12-23 (Significant additions, better introduction and grouping improvements)
 
 #### Added
 

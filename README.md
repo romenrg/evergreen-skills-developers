@@ -207,6 +207,8 @@ If for a particular reason an engineer has to focus on a specific field or area,
  * Externalized Configuration
  * [Everything as code (i.e. Configuration as code, Infrastructure as code, Docs as code,...)](https://www.romenrg.com/blog/2019/12/31/everything-as-code/)
  * Monolith vs Microservices
+ * Domain-Driven Design (DDD)
+ * Hexagonal Architecture
  * Service Mesh
  * Relevant internet protocols and their usage (i.e. HTTP, HTTPS, TCP, UDP, LDAP, SSH, SMTP,...)
  * [Data modeling](https://en.wikipedia.org/wiki/Data_modeling)
