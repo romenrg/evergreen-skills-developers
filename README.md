@@ -175,7 +175,7 @@ In most cases, organizations need engineers that can work on different areas, in
 
 ### Field-specific technical knowledge
 
-If for a particular case an engineer has to focus on a specific field or area, such as front-end, back-end, architecture, infrastructure or security; there are also cross-framework concepts and principles that you can rely on, for each case.
+If for a particular reason an engineer has to focus on a specific field or area, such as front-end, back-end, architecture, infrastructure or security; besides the general technical knowledge listed above, there are also cross-framework concepts and principles that we can rely on for each case.
 
 #### Front-end development
 
