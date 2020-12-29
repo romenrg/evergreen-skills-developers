@@ -95,7 +95,7 @@ The following non-technical skills are probably the most critical for an enginee
 
 ### General technical knowledge
 
-There is evergreen technical knowledge that is relevant for any software engineering role, despite the specific area in which they are going to be working on. To get a good understanding of their seniority and learn how solid their engineering practices are, you can keep a conversation with them on programming principles, data structures, clean code, source code management, technical collaboration and/or DevOps practices. If these foundations are solid, they will probably be able to learn the specifics needed for your particular case without problems. 
+There is evergreen technical knowledge that is relevant for any software engineer, despite the specific area in which they are going to be working on. To get a good understanding of their seniority and learn how solid their engineering practices are, you can keep a conversation with them on programming principles, data structures, clean code, source code management, technical collaboration and/or DevOps practices. If these foundations are solid, they will probably be able to learn the specifics needed for your particular case without problems. 
 
 #### Programming principles
 
