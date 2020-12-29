@@ -44,6 +44,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ## Non-technical skills
 
+The following non-technical skills are probably the most critical for an engineer to have. Without communication skills, teamwork attitude, development-process knowledge, problem-solving skills and a learning mindset; being successful on a software engineer role in a company becomes very hard, despite the technical skills one may have.
+
 ### Core Skills (aka "soft" skills)
 
 #### Communication
@@ -92,6 +94,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 ## Technical skills
 
 ### General technical knowledge
+
+In most cases, organizations need engineers that can work on different areas, instead of focusing on layers or defining fine-grained roles. In those cases, besides relying on the evergreen non-technical skills listed above, you can also rely on the general technical knowledge listed in this section.
 
 #### Principles
 
@@ -170,6 +174,8 @@ _This is a work in progress. Important knowledge might be missing, existing bull
  * Mutual exclusion
 
 ### Field-specific technical knowledge
+
+If for a particular case an engineer has to focus on a specific field or area, such as front-end, back-end, architecture, infrastructure or security; there are also cross-framework concepts and principles that you can rely on, for each case.
 
 #### Front-end development
 
