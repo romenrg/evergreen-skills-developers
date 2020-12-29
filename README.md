@@ -44,7 +44,7 @@ _This is a work in progress. Important knowledge might be missing, existing bull
 
 ## Non-technical skills
 
-The following non-technical skills are probably the most critical for an engineer to have. Without communication skills, teamwork attitude, development-process knowledge, problem-solving skills and a learning mindset; being successful on a software engineer role in a company becomes very hard, despite the technical skills one may have.
+The following non-technical skills are probably the most critical for an engineer to have. Being successful as a software engineer in a company becomes very hard without good communication, teamwork attitude, development-process knowledge, problem-solving skills and a learning mindset; despite the technical skills one may have.
 
 ### Core Skills (aka "soft" skills)
 
@@ -95,9 +95,9 @@ The following non-technical skills are probably the most critical for an enginee
 
 ### General technical knowledge
 
-In most cases, organizations need engineers that can work on different areas, instead of focusing on layers or defining fine-grained roles. In those cases, besides relying on the evergreen non-technical skills listed above, you can also rely on the general technical knowledge listed in this section.
+There is evergreen technical knowledge that is relevant for any software engineering role, despite the specific area in which they are going to be working on. To get a good understanding of their seniority and learn how solid their engineering practices are, you can keep a conversation with them on programming principles, data structures, clean code, source code management, technical collaboration and/or DevOps practices. If these foundations are solid, they will probably be able to learn the specifics needed for your particular case without problems. 
 
-#### Principles
+#### Programming principles
 
  * Basic [control structures](https://en.wikipedia.org/wiki/Control_flow) and [boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
  * OOP (Object Oriented Programming)
@@ -175,7 +175,7 @@ In most cases, organizations need engineers that can work on different areas, in
 
 ### Field-specific technical knowledge
 
-If for a particular reason an engineer has to focus on a specific field or area, such as front-end, back-end, architecture, infrastructure or security; besides the general technical knowledge listed above, there are also cross-framework concepts and principles that we can rely on for each case.
+In some cases you may want an engineer to know about certain fields or areas, such as front-end, back-end, architecture, infrastructure or security. In those cases, there are also cross-framework concepts and principles that we cab use to drive conversations on technical knowledge that is specific to each field.
 
 #### Front-end development
 
