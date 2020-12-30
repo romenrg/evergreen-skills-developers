@@ -18,7 +18,7 @@ This file keeps a log of version releases. This file is maintained
 
 ## Release Change History
 
-### [4.1.0] - 2020-12-29 ()
+### [Unreleased] [4.1.0] - 2020-12-29 ()
 
 #### Added
 
@@ -27,6 +27,8 @@ This file keeps a log of version releases. This file is maintained
 #### Changed
 
 * Added intro for main sections: "Non-technical skills", "General technical knowledge" and "Field-specific technical knowledge"
+* "Principles" to "Programming principles", in "General technical knowledge"
+* Titles of all sections changed to Sentence case (also in index)
 
 #### Removed
 

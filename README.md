@@ -25,10 +25,10 @@ _This is a work in progress. Important knowledge might be missing, existing bull
     - [Mindset](#mindset)
 - [Technical skills](#technical-skills)
   - [General technical knowledge](#general-technical-knowledge)
-    - [Principles](#principles)
-    - [Data Structures](#data-structures) 
-    - [Clean Code](#clean-code)
-    - [Source Code Management](#source-code-management)
+    - [Programming principles](#programming-principles)
+    - [Data structures](#data-structures) 
+    - [Clean code](#clean-code)
+    - [Source code management](#source-code-management)
     - [Technical collaboration](#technical-collaboration)
     - [DevOps practices](#devops-practices)
     - [Other general technical knowledge](#other-general-technical-knowledge)
@@ -127,7 +127,7 @@ There is evergreen technical knowledge that is relevant for any software enginee
  * Follow [semantic versioning](https://semver.org/)
  * Know about TDD and its practices (e.g. "red, green, refactor")
 
-#### Source Code Management
+#### Source code management
 
  * CVS (Control Version Systems) / SCM (Source Code Management) basics: branches, tags, centralized vs de-centralized,...
  * SCM vs repository management / hosting (i. e. [difference between Git and GitHub](https://stackoverflow.com/a/13321586))
