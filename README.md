@@ -62,7 +62,7 @@ The following non-technical skills are probably the most critical for an enginee
 * Be an active listener
 * Be a good mentor
 * Share knowledge
-* Engage in constructive decisions
+* Be constructive
 
 ### Innovation & (self-)management skills
 

@@ -29,6 +29,7 @@ This file keeps a log of version releases. This file is maintained
 * Added intro for main sections: "Non-technical skills", "General technical knowledge" and "Field-specific technical knowledge"
 * "Principles" to "Programming principles", in "General technical knowledge"
 * Titles of all sections changed to Sentence case (also in index)
+* "Engage in constructive decisions" -> "Be constructive"; in Teamwork
 
 #### Removed
 
