@@ -5,7 +5,7 @@ This file keeps a log of version releases. This file is maintained
 
 ## Versioning guideline
 
-* Each significant change should be described in the "unpublished" section
+* Each significant change should be described in the "Unreleased" section
 * Entry versions should follow the following:
   * Syntax:
     * [X.Y.Z] - YYYY-MM-DD (Short description)
@@ -14,7 +14,8 @@ This file keeps a log of version releases. This file is maintained
       * X = breaking change (previous version is now deprecated),
       * Y = additive change (previous version is still valid),
       * Z = just a simple patch (for a typo or error).
-* When the new version is released, a new [Unreleased] section is created in the "Release Change History" below.
+* When the new version is released, a new [Unreleased] section is created in the "Release Change History" below, as a 
+placeholder for the upcoming version.
 
 ## Release Change History
 
