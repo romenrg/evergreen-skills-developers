@@ -15,7 +15,7 @@ This file keeps a log of version releases. This file is maintained
       * Y = additive change (previous version is still valid),
       * Z = just a simple patch (for a typo or error).
 * When the new version is released, a new [Unreleased] section is created in the "Release Change History" below, as a 
-placeholder for the upcoming version.
+placeholder for the next version.
 
 ## Release Change History
 
