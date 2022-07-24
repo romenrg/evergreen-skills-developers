@@ -132,7 +132,9 @@ There is evergreen technical knowledge that is relevant for any software enginee
  * CVS (Control Version Systems) / SCM (Source Code Management) basics: branches, tags, centralized vs de-centralized,...
  * SCM vs repository management / hosting (i. e. [difference between Git and GitHub](https://stackoverflow.com/a/13321586))
  * Understand why versioning is important
- * Commit best practices ([micro commits](https://lucasr.org/2011/01/29/micro-commits/) / atomic commits, good descriptions...)
+ * Commit best practices
+   * [Micro commits](https://lucasr.org/2011/01/29/micro-commits/) / atomic commits, good descriptions...)
+   * [Conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
  * Feature branches (short-lived)
  * Trunk-based development
  * Dependency management (the importance of package managers, the risks of [dependency hell](https://en.wikipedia.org/wiki/Dependency_hell),...)
