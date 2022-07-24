@@ -24,6 +24,8 @@ placeholder for the next version.
 #### Added
 
 * Domain-Driven Design (DDD) and Hexagonal Architecture, in Architecture
+* Conventional commits, in Source Code Management
+* API Security and Circuit Breakers, in Architecture
 
 #### Changed
 
