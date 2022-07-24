@@ -205,7 +205,10 @@ In some cases, you may want an engineer to know about certain fields or areas al
 
 #### Architecture
 
- * API standards: REST / SOAP
+ * API
+   * Standards: REST / SOAP
+   * Security (e.g. blocking bots, controlling account take-over attacks, etc.)
+   * Resiliency on 3rd-party service failures (e.g. Circuit Breakers)
  * Externalized Configuration
  * [Everything as code (i.e. Configuration as code, Infrastructure as code, Docs as code,...)](https://www.romenrg.com/blog/2019/12/31/everything-as-code/)
  * Monolith vs Microservices
