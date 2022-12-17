@@ -78,7 +78,7 @@ The following non-technical skills are probably the most critical for an enginee
 
 * Applying the [Scientific Method](https://en.wikipedia.org/wiki/Scientific_method)
 * Researching skills
-* [Lateral Thinking](https://www.edwddebono.com/lateral-thinking)
+* [Lateral Thinking](https://en.wikipedia.org/wiki/Lateral_thinking)
 * Abstraction
 * Creativity
 * [5 Whys](http://en.wikipedia.org/wiki/5_Whys)
